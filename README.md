@@ -1,9 +1,13 @@
 # Documents centraux de l'association
 
-La commande
+La commande suivante renumérote les articles:
 
 ```
 perl ./process.plx FILE.md
 ```
 
-renumérote les articles.
+La commande suivante produit un fichier HTML:
+
+```
+pandoc -s FILE.md -o FILE.html
+```

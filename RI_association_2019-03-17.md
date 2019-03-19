@@ -12,22 +12,22 @@ title: Règlement intérieur de l'association
 
 L’association **Capucine et papillons, jardin d’enfance** gère et administre différents services, dont
 
-* la **crèche Capucine**, située au 35 rue Clisson 75013 Paris et
+* la **Crèche Capucine**, située au 35 rue Clisson 75013 Paris et
 * le **Jardin des parents**, situé à Paris 13e arrondissement.
 
 #### Article 1. Instances
 
 Les instances de Capucine et Papillons, Jardin d’enfance ont pour mission :
 
-Pour l’Assemblée Générale : définition et orientations générales de l’Association.
+**Pour l’Assemblée Générale** : définition et orientations générales de l’Association.
 
-Pour le Conseil d’Administration : suivi des orientations de l’Assemblée Générale. Organe principal de fonctionnement. Garant des missions pédagogiques et de la gestion de l’Association.
+**Pour le Conseil d’Administration** : suivi des orientations de l’Assemblée Générale. Organe principal de fonctionnement. Garant des missions pédagogiques et de la gestion de l’Association.
 
-Pour le Bureau : application des orientations du Conseil d’Administration, suivi technique des salariés (missions, rémunération, nomination du personnel de l'Association, fonction employeur, entretiens annuels).
+**Pour le Bureau** : application des orientations du Conseil d’Administration, suivi technique des salariés (missions, rémunération, nomination du personnel de l'Association, fonction employeur, entretiens annuels).
 
-Pour la/le directrice/eur : les missions du poste de directrice sont d’assurer par délégation du CA et de son président la responsabilité générale de la structure, en particulier la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (crèche et jardin des parents). Ces missions sont décrites dans sa fiche de poste. La directrice est mandatée par le CA pour adresser les demandes de subventions à la Ville de Paris et à la CAF, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
+**Pour le Directeur** : les missions du poste de directrice sont d’assurer par délégation du CA et de son président la responsabilité générale de la structure, en particulier la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (crèche et jardin des parents). Ces missions sont décrites dans sa fiche de poste. La directrice est mandatée par le CA pour adresser les demandes de subventions à la Ville de Paris et à la CAF, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
 
-Pour le comité de pilotage crèche : les missions du trésorier crèche et du vice trésorier sont d’assurer par délégation du CA et de son trésorier la tenue de la comptabilité régulière de toutes les opérations tant en recettes qu’en dépenses de la crèche.
+**Pour le comité de pilotage crèche** : les missions du trésorier crèche et du vice trésorier sont d’assurer par délégation du CA et de son trésorier la tenue de la comptabilité régulière de toutes les opérations tant en recettes qu’en dépenses de la crèche.
 
 #### Article 2. Membres du Bureau
 
@@ -47,13 +47,13 @@ La fonction des membres du bureau est définie de la façon suivante :
 
 Le Président, secondé par les Membres Administrateurs de chacun des services anime le Conseil d'Administration et assure le fonctionnement de l'Association, qu'il représente en justice et dans tous les actes de la vie civile.
 
-Le Secrétaire, est chargé(e) de la correspondance, notamment l'envoi des diverses convocations. Il rédige et diffuse les comptes rendus de réunions, les procès-verbaux du Conseil d'Administration et des Assemblées Générales.
+Le Secrétaire, est chargé de la correspondance, notamment l'envoi des diverses convocations. Il rédige et diffuse les comptes rendus de réunions, les procès-verbaux du Conseil d'Administration et des Assemblées Générales.
 
- Le Trésorier, tient les comptes de l'Association. Il assure la gestion financière de l’association et les relations avec le comptable. Il effectue tous paiements et perçoit toutes recettes en collaboration avec le Président. Il tient une comptabilité régulière de toutes les opérations tant en recettes qu'en dépenses et en rend compte à l'Assemblée Générale Ordinaire annuelle.
+Le Trésorier, tient les comptes de l'Association. Il assure la gestion financière de l’association et les relations avec le comptable. Il effectue tous paiements et perçoit toutes recettes en collaboration avec le Président. Il tient une comptabilité régulière de toutes les opérations tant en recettes qu'en dépenses et en rend compte à l'Assemblée Générale Ordinaire annuelle.
 
 #### Article 4. Absence du Bureau
 
-En cas d'absence provisoire, mais prolongée d'un membre du Bureau (vacances, congés maternité, maladie...), le CA pourvoit à son remplacement en désignant un remplaçant. Le remplaçant assure la charge totale et la responsabilité pleine et entière du poste ainsi vacant : Le remplaçant peut être coopté par le CA parmi ses membres ou parmi les membres élus des comités de pilotage des services de l’Association. A son retour, le titulaire reprend ses charges et responsabilités.
+En cas d'absence provisoire, mais prolongée d'un membre du Bureau (vacances, congés maternité, maladie, etc.), le CA pourvoit à son remplacement en désignant un remplaçant. Le remplaçant assure la charge totale et la responsabilité pleine et entière du poste ainsi vacant : Le remplaçant peut être coopté par le CA parmi ses membres ou parmi les membres élus des comités de pilotage des services de l’Association. A son retour, le titulaire reprend ses charges et responsabilités.
 
 #### Article 5. Membres administrateurs
 
@@ -65,9 +65,9 @@ Le Membre administrateur de la (des) crèche (s) est élu parmi et par les paren
 
 Le Membre administrateur du Jardin des Parents est élu parmi et par les adhérents de l’Association lors de l’Assemblée Générale Ordinaire ou extraordinaire.
 
-#### Article 6. Membres "jardiniers"
+#### Article 6. Membres Jardiniers
 
-Anciens élus des comités de pilotage (crèche, JDP) ils sont admis, après délibération du CA à siéger au sein du CA pour une durée de deux ans, renouvelable.
+Anciens élus des comités de pilotage (Crèche ou Jardin des parents) ou anciens membres du Conseil d'administration, les Membres Jardiniers sont admis, après délibération du Conseil d'administration à siéger au sein du Conseil d'administration pour une durée de deux ans, renouvelable.
 
 #### Article 7. Conseil d’administration
 
