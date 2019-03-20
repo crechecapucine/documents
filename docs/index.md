@@ -2,8 +2,8 @@
 title: Association Capucine et papillons, jardin d'enfance
 ---
 
-* Site de l'association : http://www.creche-capucine-paris13.fr/
-* Page Facebook : https://www.facebook.com/capucineetpapillons/
+* [Site de l'association](http://www.creche-capucine-paris13.fr/)
+* [Page Facebook](https://www.facebook.com/capucineetpapillons/)
 
 # Capucine et papillons, jardin d'enfance
 
@@ -16,10 +16,10 @@ title: Association Capucine et papillons, jardin d'enfance
 
 ## Documents en cours de préparation
 
-* Les [statuts](statuts_association.html) de l'association
-* Le [règlement intérieur](RI_association.html) de l'association
+* Les [statuts](statuts_association) de l'association
+* Le [règlement intérieur](RI_association) de l'association
 * Le [règlement intérieur](RI_creche) de la crèche
-* Le projet pédagogique de la crèche
+* Le [projet pédagogique](projet_pedagogique) de la crèche
 
 **Calendrier et prochaines étapes** Les règlements intérieurs doivent
 être votés en conseil d'administration, le 16 avril 2019, et ratifiés
