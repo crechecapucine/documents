@@ -9,6 +9,7 @@ title: Règlement intérieur de l'association
 * Intégrant les modifications du 28 mai 2011
 * Intégrant les modifications du 26 juin 2011
 * Intégrant les modifications du 19 mars 2019
+* Intégrant les modifications du 16 avril 2019
 
 L’association **Capucine et papillons, jardin d’enfance** gère et administre différents services, dont
 
