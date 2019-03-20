@@ -9,10 +9,10 @@ title: Association Capucine et papillons, jardin d'enfance
 
 ## Documents actuellement en vigueur
 
-* Les [statuts et règlement intérieur](archives/statuts_RI_association_2011-06-26.pdf) de l'association (PDF, version du 26 juin 2011)
-* Le [règlement intérieur de la crèche](archives/RI_creche_2017-04-25.pdf)
+* Les [statuts et règlement intérieur](current/statuts_RI_association_2011-06-26.pdf) de l'association (PDF, version du 26 juin 2011)
+* Le [règlement intérieur de la crèche](current/RI_creche_2017-04-25.pdf)
   (PDF, version du 25 avril 2017)
-* Le projet pédagogique
+* Le [projet pédagogique](current/projet_pedagogique_2018.pdf) de la crèche
 
 ## Documents en cours de préparation
 
