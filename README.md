@@ -13,8 +13,8 @@ La commande suivante produit une table des matières (niveaux numérotés
 bash toc.sh FILE.md
 ```
 
-La commande suivante produit un fichier HTML:
+La commande suivante produit un fichier HTML dans le sous-répertoire "docs":
 
 ```
-pandoc -s FILE.md -o FILE.html
+pandoc -s +smart FILE.md -o docs/FILE.html
 ```
