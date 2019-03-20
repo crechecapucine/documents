@@ -1,8 +1,14 @@
 * [Page GitHub](https://crechecapucine.github.io/documents/) de ce dépôt
-* Site de l'association : http://www.creche-capucine-paris13.fr/
-* Page Facebook : https://www.facebook.com/capucineetpapillons/
+* [Site de l'association](http://www.creche-capucine-paris13.fr/)
+* [Page Facebook](https://www.facebook.com/capucineetpapillons/)
 
 # Documents centraux de l'association
+
+## Comment modifier les documents
+
+To do.
+
+## Quelques commandes utiles
 
 La commande suivante renumérote les articles:
 
