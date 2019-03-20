@@ -18,7 +18,7 @@ title: Règlement intérieur de la crèche Capucine
 * Intégrant les modifications du 8 juillet 2015
 * Intégrant les modifications du 11 février 2016
 * Intégrant les modifications du 25 avril 2017
-* Intégrant les modifications du 16 avril 2019
+* Intégrant les modifications du XX XXXX 2019
 
 ## Table des matières
 
