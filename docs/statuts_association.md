@@ -24,7 +24,7 @@ title: Statuts de l'Association
 
 #### Article 1. Nom, date de fondation, durée
 
-L’Association dite **Capucine et papillons, jardin d’enfance** est fondée en mars 2002.
+L’Association **Capucine et papillons, jardin d’enfance** est fondée en mars 2002.
 Sa durée est illimitée.
 
 #### Article 2. Objet
