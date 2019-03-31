@@ -8,7 +8,7 @@ title: Statuts de l'Association
 * Intégrant les modifications du 3 février 2010
 * Intégrant les modifications du 28 mai 2011
 * Intégrant les modifications du 26 juin 2011
-* Intégrant les modifications du XX XXXX 2019
+* Intégrant les modifications du 25 mai 2019
 
 ## Table des matières
 
@@ -191,4 +191,4 @@ Il est tenu une comptabilité conforme aux prescriptions légales et réglementa
 
 #### Article 19. Modifications des statuts et dissolution
 
-La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901. Les statuts ne peuvent être modifiés qu’après accord de l’Assemblée Générale. Le Règlement intérieur peut être modifié par le Conseil d’Administration. Il sera ratifié par l’Assemblée Générale.
+La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901. Les statuts ne peuvent être modifiés, sur proposition du Conseil d'administration, qu’après accord de l’Assemblée générale. Le Règlement intérieur peut être modifié par le Conseil d’administration. Il sera ratifié par l’Assemblée Générale.
