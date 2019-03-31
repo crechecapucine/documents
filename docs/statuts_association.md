@@ -117,11 +117,11 @@ Siège au Conseil d'administration un **Membre administrateur** par service (cr�
 
 Les Membres administrateurs siégeant au Conseil d'administration sont élus dans les conditions qui sont fixées au Règlement intérieur de l’Association.
 
-#### Article 000. Comités de pilotage
+#### Article 11. Comités de pilotage
 
 La crèche Capucine élit un **Comité de pilotage** parmi les usagers-adhérents de la crèche. Le Jardin des parents peut élire un Comité de pilotage.  Les membres du Conseil d’administration sont membres de droit de chacun des Comités de pilotage. Le Comité de pilotage est tenu de se conformer aux décisions prises par le Conseil d’administration, garant du Règlement intérieur, des présents statuts et des missions pédagogiques de l’Association.
 
-#### Article 11. Bureau
+#### Article 12. Bureau
 
 Le Conseil d’administration de l’Association élit parmi ses membres ou parmi les membres des Comités de pilotage, dans les conditions qui sont fixées au Règlement intérieur de l’Association, un bureau composé au moins de :
 
@@ -137,11 +137,11 @@ Le Conseil d’administration et le Bureau exercent leur responsabilité conform
 
 Le Président représente l’Association dans tous les actes de la vie civile. Il ordonnance les dépenses. Après délibération du CA, le Président et le Trésorier peuvent donner délégation. Les missions déléguées sont inscrites au Règlement intérieur.
 
-#### Article 12. Membres jardiniers
+#### Article 13. Membres jardiniers
 
 Les **Membres jardiniers** sont des membres parmi les anciens élus des Comités de pilotage (crèche Capucine ou Jardin des parents) admis à siéger au sein du Conseil d'administration dans les conditions qui sont fixées au Règlement intérieur de l’Association.
 
-#### Article 13. Fonctionnement du Conseil d'administration
+#### Article 14. Fonctionnement du Conseil d'administration
 
 Le Conseil d'administration se réunit selon les conditions qui sont fixées au Règlement intérieur de l’Association.
 
@@ -151,11 +151,11 @@ Toutes les délibérations du Conseil d'administration sont consignées par écr
 
 La présence de la moitié au moins de ses membres est nécessaire pour que le Conseil d'administration puisse délibérer valablement. Il ne peut y avoir de vote sans cette condition. Dans le cas où cette condition n’est pas remplie, un nouveau Conseil d'administration est alors convoqué dans la quinzaine suivante. La date de ce nouveau Conseil d'administration est fixée par le Président ou au moins la moitié des membres du Conseil d'administration. En cas d’impossibilité de réunir au moins la moitié des membres dans la quinzaine suivante, le Conseil d'administration peut délibérer de façon exceptionnelle en présence de moins de la moitié de ses membres.
 
-#### Article 14. Vacance de siège
+#### Article 15. Vacance de siège
 
 En cas de vacance de siège (membre du Bureau ou Membre administrateur) le Conseil d’administration, peut nommer un remplaçant, selon les dispositions prévues au Règlement intérieur.
 
-#### Article 15. Assemblée générale ordinaire
+#### Article 16. Assemblée générale ordinaire
 
 L’**Assemblée générale ordinaire** de l’Association est constituée par la réunion des Membres adhérents. Elle se compose des membres à jour de leur adhésion à la date de sa tenue. Elle se réunit au moins une fois par an et chaque fois qu’elle est convoquée par le Conseil d’administration ou sur la demande d’au moins un quart de ses membres. Le rapport annuel et les comptes sont disponibles chaque année pour tous les membres de l’Association. Ils seront envoyés sur simple demande. Son ordre du jour est établi par le Conseil d’administration.
 
@@ -169,7 +169,7 @@ Il est également tenu une feuille de présence, qui est signée par chaque memb
 
 ## III. Ressources de l’Association
 
-#### Article 16. Ressources
+#### Article 17. Ressources
 
 Les ressources annuelles de l‘Association se composent :
 
@@ -183,12 +183,12 @@ Les ressources annuelles de l‘Association se composent :
 
 * des dons des Membres bienfaiteurs.
 
-#### Article 17. Comptabilité
+#### Article 18. Comptabilité
 
 Il est tenu une comptabilité conforme aux prescriptions légales et réglementaires en vigueur.
 
 ## IV. Modification des statuts et dissolution
 
-#### Article 18. Modifications des statuts et dissolution
+#### Article 19. Modifications des statuts et dissolution
 
 La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901. Les statuts ne peuvent être modifiés qu’après accord de l’Assemblée Générale. Le Règlement intérieur peut être modifié par le Conseil d’Administration. Il sera ratifié par l’Assemblée Générale.
