@@ -55,9 +55,9 @@ Chaque membre s’engage à :
 
 * accepter les dispositions des statuts et du Règlement intérieur
 
-**Membres adhérents.** Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Doit acquitter l’adhésion annuelle. Électeur, éligible.
+**Membres adhérents** : Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Doit acquitter l’adhésion annuelle. Électeur, éligible.
 
-**Membres bienfaiteurs.** Toute personne physique ou morale apportant un soutien financier sans bénéficier des services de l'Association. Elle ne paie pas d’adhésion annuelle et n‘a pas de voix délibérative.
+**Membres bienfaiteurs** : Toute personne physique ou morale apportant un soutien financier sans bénéficier des services de l'Association. Elle ne paie pas d’adhésion annuelle et n‘a pas de voix délibérative.
 
 #### Article 6. Admission et adhésion
 
@@ -107,7 +107,7 @@ Les Membres bienfaiteurs ne peuvent pas faire partie du Conseil d'administration
 
 #### Article 10. Membres administrateurs
 
-Siège au Conseil d'administration un **Membre administrateur** par service (crèche Capucine ou Jardin des parents) parmi les membres adhérents, représentant et utilisateur dudit service de l’Association. Est éligible au poste d’Administrateur toute personne remplissant la totalité des conditions suivantes :
+Siège au Conseil d'administration un **Membre administrateur** par service (crèche Capucine et Jardin des parents) parmi les membres adhérents, représentant et utilisateur dudit service de l’Association. Est éligible au poste d’Administrateur toute personne remplissant la totalité des conditions suivantes :
 
 * avoir atteint la majorité légale au jour de l’élection,
 
@@ -117,7 +117,9 @@ Siège au Conseil d'administration un **Membre administrateur** par service (cr�
 
 Les Membres administrateurs siégeant au Conseil d'administration sont élus dans les conditions qui sont fixées au Règlement intérieur de l’Association.
 
-Chaque service de l’Association peut élire un **Comité de pilotage**, composé d’usagers-adhérents dudit service. Les membres du Conseil d’administration sont membres de droit de chacun des Comités de pilotage. Le Comité de pilotage est tenu de se conformer aux décisions prises par le Conseil d’administration, garant du Règlement intérieur, des présents statuts et des missions pédagogiques de l’Association.
+#### Article 000. Comités de pilotage
+
+La crèche Capucine élit un **Comité de pilotage** parmi les usagers-adhérents de la crèche. Le Jardin des parents peut élire un Comité de pilotage.  Les membres du Conseil d’administration sont membres de droit de chacun des Comités de pilotage. Le Comité de pilotage est tenu de se conformer aux décisions prises par le Conseil d’administration, garant du Règlement intérieur, des présents statuts et des missions pédagogiques de l’Association.
 
 #### Article 11. Bureau
 
