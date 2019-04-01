@@ -389,8 +389,6 @@ L’adhésion à l’association est versée une fois par an, le 1er septembre p
 
 Elle est versée à l’admission de l’enfant à tout moment de l’année.
 
-Son montant est de 30 € par famille ou 15 € par personne.
-
 #### Article 41
 
 Toutes les familles de la crèche prennent la charge d'une responsabilité dans le fonctionnement de la crèche. La description de l’ensemble des rôles figure dans le document "Comment s’investir dans la crèche ?". Ce document fait l’objet d’une approbation en Conseil d’Administration à chaque révision.
@@ -534,17 +532,21 @@ Toutefois, si les parents sont dans l’impossibilité momentanée pour raison m
 
 | Accueil                         | Fréquence des permanences  |
 | ------------------------------- | -------------------------- |
-| Temps plein 5 jours / semaine   | 1 permanence  / semaine    |
+| Temps plein   5 jours / semaine | 1 permanence  / semaine    |
 | Temps partiel 4 jours / semaine | 4 permanences / 5 semaines |
 | Temps partiel 3 jours / semaine | 3 permanences / 5 semaines |
 | Temps partiel 2 jours / semaine | 2 permanences / 5 semaines |
-| Temps partiel 1 jour / semaine  | 1 permanence  / 5 semaines |
+| Temps partiel 1 jour  / semaine | 1 permanence  / 5 semaines |
+
+Dans le cas du mode de garde occasionnel, une permanence est due pour cinq jours d'accueil à aménager avec la Commission planning.
 
 Les permanences ont lieu durant les jours de présence de l’enfant si l’enfant est accueilli à temps partiel. Ainsi, lorsqu’un enfant est présent les lundis, mardis, jeudis et vendredis, la permanence est faite sur l’une de ces journées et pas le mercredi. Si la famille souhaite faire sa permanence le mercredi le forfait de l’enfant sera alors de 5 jours. De façon exceptionnelle et à la demande de la famille, un échange de permanence peut avoir lieu sur une journée hors forfait. Si l’enfant est accueilli à la crèche, cette journée sera facturée à la famille.
 
 Les permanences supplémentaires, les "renforts", demandées aux parents par la crèche sur une journée qui n’est pas habituellement dans le forfait de l’enfant (exemple : pour faire face à l’absence d’un professionnel, pour une sortie, ou un créneau non pourvu dans le planning des permanences), ne sont pas dues financièrement par la famille.
 
 L’accueil des enfants (et donc la participation financière des familles) ne fonctionne pas à la demi-journée (comme ce serait le cas dans une halte garderie). Le parent de permanence du matin peut repartir avec son enfant à 13 h s’il le souhaite mais une journée complète est facturée.
+
+TODO: Permanence lors de la reprise fin août.
 
 #### Article 55. Réunions mensuelles
 
