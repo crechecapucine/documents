@@ -422,11 +422,11 @@ Le taux d’effort (taux CAF 2015) s'applique sur le revenu total de la famille.
 
 Le forfait mensuel (pour l’accueil régulier) et le règlement des journées occasionnelles obéissent aux règles suivantes.
 
-* Le paiement de la place réservée : la présence d’un enfant est facturée à la journée (même s’il est présent une demi-journée, ce qui doit rester exceptionnel). Toute journée commencée est due
+* Le paiement de la place réservée : la présence d’un enfant est facturée à la journée.  Cela même s’il est présent une demi-journée (ce qui doit rester exceptionnel, par exemple, en cas de rendez-vous chez le pédiatre)
 
 * Le forfait mensuel est fixé par contrat pour la période prévisible de fréquentation par l’enfant dans la structure. Il peut être hebdomadaire pour répondre aux situations atypiques
 
-* La période d’adaptation est due à l’association
+* La période d’adaptation est due à l’association en comptant cinq demi-journées la première semaine et des journées complètes les semaines d'adaptation suivantes
 
 * La participation financière due pour les journées occasionnelles est calculée sur la base du tarif journalier contenu dans le contrat.
 
