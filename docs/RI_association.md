@@ -1,5 +1,7 @@
 ---
-title: Règlement intérieur de l'association
+title:  Règlement intérieur de l'association
+author: Capucine et papillons, jardin d'enfance
+date:   16/4/2019
 ---
 
 # Règlement intérieur de l'association

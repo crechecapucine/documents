@@ -1,0 +1,90 @@
+% pandoc --template template.tex FILE.md -o FILE.tex
+% lualatex FILE
+
+\PassOptionsToPackage{unicode=true}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+
+\documentclass[11pt]{article}
+
+\usepackage{fontspec}
+\setmainfont[Numbers=OldStyle]{TeX Gyre Pagella}
+\usepackage{hyperref}
+\hypersetup{
+$if(title-meta)$
+            pdftitle={$title-meta$},
+$endif$
+$if(author-meta)$
+            pdfauthor={$author-meta$},
+$endif$
+$if(keywords)$
+            pdfkeywords={$for(keywords)$$keywords$$sep$, $endfor$},
+$endif$
+$if(colorlinks)$
+            colorlinks=true,
+            linkcolor=$if(linkcolor)$$linkcolor$$else$Maroon$endif$,
+            citecolor=$if(citecolor)$$citecolor$$else$Blue$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$Blue$endif$,
+$else$
+            pdfborder={0 0 0},
+$endif$
+            breaklinks=true}
+\urlstyle{same}
+
+\usepackage{parskip}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{longtable,booktabs}
+\usepackage[normalem]{ulem}
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{}
+
+\usepackage{polyglossia}
+\setmainlanguage{french}
+\usepackage{csquotes}
+
+\title{$title$}
+$if(subtitle)$
+\providecommand{\subtitle}[1]{}
+\subtitle{$subtitle$}
+$endif$
+
+\author{$for(author)$$author$$sep$ \and $endfor$}
+
+\def\date #1/#2/#3/{\day=#1 \month=#2 \year=#3 }
+\date$date$/
+
+\setcounter{secnumdepth}{-\maxdimen}
+
+\begin{document}
+$if(title)$
+\maketitle
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+$endif$
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+}
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

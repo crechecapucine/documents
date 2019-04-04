@@ -1,5 +1,7 @@
 ---
-title: Statuts de l'Association
+title:  Statuts de l'Association
+author: Capucine et papillons, jardin d'enfance
+date:   25/5/2019
 ---
 
 # Statuts de l'association

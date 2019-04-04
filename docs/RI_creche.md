@@ -1,5 +1,7 @@
 ---
-title: Règlement intérieur de la crèche Capucine
+title:  Règlement intérieur de la crèche Capucine
+author: Capucine et papillons, jardin d'enfance
+date:   16/4/2019
 ---
 
 # Règlement intérieur de la crèche Capucine
