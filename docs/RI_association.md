@@ -8,7 +8,7 @@ title: Règlement intérieur de l'association
 * Intégrant les modifications du 3 février 2010
 * Intégrant les modifications du 28 mai 2011
 * Intégrant les modifications du 26 juin 2011
-* Intégrant les modifications du XX XXXX 2019
+* Intégrant les modifications du 16 avril 2019
 
 L’association **Capucine et papillons, jardin d’enfance** gère et administre différents services, dont
 
@@ -35,11 +35,13 @@ Le service Jardin des parents est sous la responsabilité d'un Administrateur et
 
 #### Article 2. Membres du Bureau
 
-Le Conseil d’administration élit parmi ses membres, les membres des Comités de pilotage ou les personnes invitées, un Bureau composé au moins de :
+Le Conseil d’administration élit un Bureau composé au moins de :
 
 * un Président
 * un Secrétaire
 * un Trésorier
+
+Le Bureau est élu parmi les membres du Conseil d'administration, les membres des Comités de pilotage ou les Membres adhérents de l'Association invités par le Conseil d'administration.
 
 Le Bureau de l’Association est chargé de prendre toutes décisions nécessaires à la bonne marche de l’Association entre deux réunions du Conseil d’administration, devant lequel il rend compte de ses activités. Les membres sortants sont rééligibles. Les membres bienfaiteurs ne peuvent pas faire partie du Bureau.
 
@@ -57,7 +59,7 @@ Le Trésorier, tient les comptes de l'Association. Il assure la gestion financi�
 
 #### Article 4. Absence du Bureau
 
-En cas d'absence provisoire, mais prolongée d'un membre du Bureau (vacances, congés maternité, maladie, etc.), le Conseil d'administration pourvoit à son remplacement en désignant un remplaçant. Le remplaçant assure la charge totale et la responsabilité pleine et entière du poste ainsi vacant : Le remplaçant peut être coopté par le CA parmi ses membres ou parmi les membres élus des Comités de pilotage des services de l’Association. À son retour, le titulaire reprend ses charges et responsabilités.
+En cas d'absence provisoire, mais prolongée d'un membre du Bureau (vacances, congés maternité, maladie, etc.), le Conseil d'administration pourvoit à son remplacement en désignant un remplaçant. Le remplaçant assure la charge totale et la responsabilité pleine et entière du poste ainsi vacant : le remplaçant peut être coopté par le Conseil d'administration parmi ses membres ou parmi les membres élus des Comités de pilotage des services de l’Association. À son retour, le titulaire reprend ses charges et responsabilités.
 
 #### Article 5. Membres administrateurs
 
@@ -65,7 +67,7 @@ Un Membre administrateur représentant chacun des services de l’Association es
 
 L’élection des Membres administrateurs se fait à main levée sauf si le quart au moins des membres présents exige le vote secret. Les membres sortants sont rééligibles.
 
-Le Membre administrateur de la crèche Capucine est élu parmi et par les parents de la crèche en Réunion de fonctionnement ou lors de l’Assemblée générale ordinaire de l’Association.
+Le Membre administrateur de la crèche Capucine est élu parmi et par les parents de la crèche en Réunion de fonctionnement ou lors d’une Assemblée générale de l’Association, ordinaire ou extraordinaire.
 
 Le Membre administrateur du Jardin des parents est élu parmi et par les adhérents de l’Association lors d’une Assemblée générale, ordinaire ou extraordinaire.
 
@@ -79,7 +81,9 @@ Le Conseil d'administration se réunit chaque fois qu'il est convoqué par son P
 
 #### Article 8. Adhésion annuelle
 
-Tout membre de Capucine et papillons, jardin d’enfance doit acquitter une adhésion annuelle fixée à 15 € par personne (soit 30 € par couple). Ce montant pourra être modifié par l’Assemblée générale ordinaire.
+Tout membre de Capucine et papillons, jardin d’enfance doit acquitter une adhésion annuelle fixée à 15 € par personne (soit 30 € par couple). Cette cotisation peut être revue par le Conseil d’administration et avalisée par l’Assemblée générale.
+
+La période de validité de l'adhésion est l'année scolaire : du 1er septembre au 31 août. Pour une adhésion après le 1er avril, il est prévu une cotisation égale à la moitié du montant annuel.
 
 #### Article 9. Autorisations du Conseil d'administration
 

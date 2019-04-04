@@ -18,7 +18,7 @@ title: Règlement intérieur de la crèche Capucine
 * Intégrant les modifications du 8 juillet 2015
 * Intégrant les modifications du 11 février 2016
 * Intégrant les modifications du 25 avril 2017
-* Intégrant les modifications du XX XXXX 2019
+* Intégrant les modifications du 16 avril 2019
 
 ## Table des matières
 
@@ -127,15 +127,15 @@ Le lait infantile (1er ou 2e âge) sera fourni par la crèche. La poursuite de l
 
 A son arrivée à la crèche, chaque famille est accueillie par une professionnelle référente de l’enfant. Elle est également parrainée à son arrivée par une famille chevronnée de la crèche.
 
-L’objectif est de construire un cadre d’accueil pour les enfants et leur famille, favorisant leur bien être. Le lien avec les parents autour de l’enfant est au cœur du projet, ce qui permet une continuité avec le milieu familial, et l’émergence des souhaits de participation des parents.
+L’objectif est de construire un cadre d’accueil pour les enfants et leur famille, favorisant leur bien-être. Le lien avec les parents autour de l’enfant est au cœur du projet, ce qui permet une continuité avec le milieu familial, et l’émergence des souhaits de participation des parents.
 
-L’ensemble de l’équipe professionnelle élabore et met en œuvre le Projet Pédagogique de la crèche et en assure la cohérence. L’équipe professionnelle dans son ensemble est garante avec les parents, du respect du règlement intérieur du projet pédagogique et de ses orientations.
+L’ensemble de l’équipe professionnelle élabore et met en œuvre le Projet pédagogique de la crèche et en assure la cohérence. L’équipe professionnelle dans son ensemble est garante, avec les parents, du respect du règlement intérieur du projet pédagogique et de ses orientations.
 
 #### Article 7. L’équipe permanente de la crèche
 
 L’équipe de la crèche se compose de professionnels diplômés de la petite enfance et de personnel non diplômé sous leur responsabilité.
 
-Lieu de formation et partenaire de plusieurs centres de formation, la crèche peut accueillir des apprentis et/ou des stagiaires, par exemple, d’école d’Éducateur de Jeunes Enfants et d’Auxiliaire de Puériculture, dans le cadre du réseau de formation. Ces apprentis et stagiaires sont sous la responsabilité exclusive de l’équipe professionnelle.
+Lieu de formation et partenaire de plusieurs centres de formation, la crèche peut accueillir des apprentis et/ou des stagiaires, par exemple, d’école d’éducateur de jeunes enfants et d’auxiliaire de puériculture, dans le cadre du réseau de formation. Ces apprentis et stagiaires sont sous la responsabilité exclusive de l’équipe professionnelle.
 
 La continuité de direction est assurée par la responsable technique ou, en son absence, par un éducateur de jeunes enfants.
 
@@ -143,19 +143,23 @@ La continuité de direction est assurée par la responsable technique ou, en son
 
 L’effectif du personnel placé auprès des enfants est d’un professionnel pour cinq enfants qui ne marchent pas et d’un professionnel pour huit enfants qui marchent. Conformément au décret d’août 2000 pour des questions de sécurité, l’effectif des adultes présent auprès des enfants à tout moment de la structure d’accueil ne doit pas être inférieur à deux, dont au moins un professionnel qualifié assisté d’un parent ou d’une autre personne.
 
-Exceptionnellement, en cas d’absence d’un professionnel qualifié (maladie, formation, congé) un parent participant régulièrement à l'accueil des enfants peut le remplacer : le parent de permanence est responsable du groupe d’enfants qu’il encadre et dont il assure la sécurité. Exceptionnellement, le bureau, en consultation avec la direction, peut fermer la crèche si les bonnes conditions d’encadrement ne sont pas réunies.
+Exceptionnellement, en cas d’absence d’un professionnel qualifié (maladie, formation, congé), un parent participant régulièrement à l'accueil des enfants peut le remplacer : le parent de permanence est responsable du groupe d’enfants qu’il encadre et dont il assure la sécurité. Exceptionnellement, le bureau, en consultation avec la direction, peut fermer la crèche si les bonnes conditions d’encadrement ne sont pas réunies.
 
 Le planning de l’équipe est affiché dans le bureau de la crèche.
 
 #### Article 9. Rôles de l’équipe professionnelle
 
-Elle assure un travail en équipe afin de mettre en pratique le Projet Pédagogique de la crèche et d’en assurer la cohérence. Les professionnels sont garants du projet pédagogique et de ses orientations. Ils sont également garants avec l’ensemble des parents du respect du Règlement Intérieur
+L'équipe professionnelle assure un travail en équipe afin de mettre en pratique le Projet pédagogique de la crèche et d’en assurer la cohérence. Les professionnels sont garants du projet pédagogique et de ses orientations. Ils sont également garants avec l’ensemble des parents du respect du Règlement Intérieur
 
 L’enfant et sa famille seront accompagnés dans leurs premières séparations puis au départ de la crèche vers l’école en favorisant la mise en place de passerelles avec l’école maternelle.
 
 Le projet pédagogique de la crèche n’est pas statique : il nécessite une réflexion et des évolutions. Sur ce point, les parents peuvent être consultés, mais ne sont pas décisionnaires : la prise de décision revient à l’équipe professionnelle sur les aspects concernant la pédagogie (exemple : aménagement de l’espace, règles de vie dans la crèche, déroulement des adaptations, mise en place des activités, etc.)
 
-Les prises de décisions ayant une implication sur la gestion et le fonctionnement de la crèche seront soumises au conseil d’administration de l’association et la réflexion menée avec lui. La mise en place d’activités, d’animations ou de sorties par les parents auprès des enfants est encouragée : elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté ou non à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine. Proposition et organisation des sorties (bibliothèque, marché, ludothèque) En collaboration avec les parents, l’équipe organise les réunions pédagogiques tous les deux mois (repérage des thèmes, recherche d’informations liées à ces thèmes, relation avec des intervenants extérieurs, animation de la réunion et des débats).
+Les prises de décisions ayant une implication sur la gestion et le fonctionnement de la crèche seront soumises au Conseil d’administration de l’Association et la réflexion menée avec lui. La mise en place d’activités, d’animations ou de sorties par les parents auprès des enfants est encouragée : elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté ou non à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine.
+
+L'équipe profesionnelle peut proposer et organiser, éventuellement avec le soutien des parents, des sorties (bibliothèque, marché, ludothèque).
+
+En collaboration avec les parents, l’équipe organise les réunions pédagogiques tous les deux mois (repérage des thèmes, recherche d’informations liées à ces thèmes, relation avec des intervenants extérieurs, animation de la réunion et des débats).
 
 #### Article 10. Rôles des professionnels en formation
 
@@ -263,11 +267,11 @@ Il est demandé aux parents de prévoir une poussette peu encombrante en raison 
 
 #### Article 20
 
-Pour des raisons de sécurité, aucun enfant ne devra porter de bijoux, boucles d’oreille, foulard autour du cou. L’association décline toute responsabilité pour perte ou accident encouru par le non-respect de cette clause.
+Pour des raisons de sécurité, aucun enfant ne devra porter de bijoux, boucles d’oreille, foulard autour du cou. L’association décline toute responsabilité pour perte ou accident encouru par le non respect de cette clause.
 
 #### Article 21
 
-Les billes, pièces de monnaie, pin’s et tout objet dangereux sont interdits dans la crèche (attention aux poches de vos enfants, y compris frères et sœurs).
+Les billes, pièces de monnaie et tout objet dangereux sont interdits dans la crèche (attention aux poches de vos enfants, y compris frères et sœurs).
 
 #### Article 22
 
@@ -351,7 +355,7 @@ Les parents sont tenus de renseigner régulièrement la fiche de poids. Cette in
 
 Un enfant atteint d’une maladie contagieuse nécessitant une éviction et ceux dont l’état nécessite une surveillance ou des conditions de confort particulières ne seront pas accueillis dans la structure. Sa réadmission ne sera possible qu’à la guérison clinique de la maladie ou au vu d’un certificat médical attestant qu’il a été soumis à un traitement approprié.
 
-L’éviction sera prononcée par la directrice /ou le médecin de crèche ; en cas d’absence, la responsable technique est en mesure de refuser l’admission de l’enfant.
+L’éviction sera prononcée par la direction ou le médecin de crèche ; en cas d’absence, la responsable technique est en mesure de refuser l’admission de l’enfant.
 
 #### Article 37
 
@@ -385,17 +389,17 @@ Les parents d’un enfant admis à la crèche Capucine deviennent "membres actif
 
 Adhérer à l’association en réglant la cotisation annuelle renouvelable chaque année scolaire au 1er septembre.
 
-L’adhésion à l’association est versée une fois par an, le 1er septembre pour les parents adhérents et à l’inscription pour ceux arrivant en cours d’année. Pour une adhésion après le 1er avril, il est prévu une cotisation égale à la moitié du montant annuel. Cette cotisation est revue chaque année par le Conseil d’Administration et avalisée par l’assemblée générale.
+L’adhésion à l’association est versée une fois par an, le 1er septembre pour les parents adhérents et à l’inscription pour ceux arrivant en cours d’année. Pour une adhésion après le 1er avril, il est prévu une cotisation égale à la moitié du montant annuel. Cette cotisation peut être revue par le Conseil d’administration et avalisée par l’Assemblée générale.
 
 Elle est versée à l’admission de l’enfant à tout moment de l’année.
 
 #### Article 41
 
-Toutes les familles de la crèche prennent la charge d'une responsabilité dans le fonctionnement de la crèche. La description de l’ensemble des rôles figure dans le document "Comment s’investir dans la crèche ?". Ce document fait l’objet d’une approbation en Conseil d’Administration à chaque révision.
+Toutes les familles de la crèche prennent la charge d'une responsabilité dans le fonctionnement de la crèche. La description de l’ensemble des rôles figure dans l'Annexe III "Comment s’investir dans la crèche ?". Ce document fait l’objet d’une approbation en Conseil d’administration à chaque révision.
 
 #### Article 42
 
-Toute adhésion engage à approuver et respecter le Règlement intérieur et le Projet Pédagogique en signant le contrat d’engagement à l’inscription. Le non respect de l’une ou l’autre des dispositions énoncées peut entraîner l’exclusion des parents et de leur enfant.
+Toute adhésion engage à approuver et respecter le Règlement intérieur et le Projet pédagogique en signant le contrat d’engagement à l’inscription. Le non respect de l’une ou l’autre des dispositions énoncées peut entraîner l’exclusion des parents et de leur enfant.
 
 ### 2. Dispositions financières
 
@@ -407,9 +411,7 @@ La participation financière des familles est fixée d’après un barème natio
 
 La crèche étant fermée durant 4 semaines l’été et une semaine à Noël, aucune participation n’est due pour cette période. Une sixième semaine non facturée est mise en place dans des termes définis lors de la première réunion de fonctionnement de l'année scolaire.
 
-Les ressources à prendre en compte sont les revenus déclarés du foyer AVANT abattement fiscaux ("Total des salaires et assimilés") selon la législation des prestations familiales établies par la CAF. Pour tous les autres revenus, les revenus déclarés avant abattement sont pris en compte. Les revenus à prendre en compte sont ceux de l’année N - 2 (voir Article 44 "Révision du forfait"). Le taux d’effort s’applique sur la somme de tous les revenus. Le plancher appliqué est communiqué annuellement par la CAF. Le plafond mensuel est de 7145 euros (appliqué par la CAF). Il est voté par le Conseil d’Administration de l’association lors des révisions de tarifs.
-
-Le tarif demandé à la famille est calculé pour un forfait mensuel de 20, 16, 12, 8, 4 jours et de 10 h de présence par jour.
+Les ressources à prendre en compte sont les revenus déclarés du foyer AVANT abattement fiscaux ("Total des salaires et assimilés") selon la législation des prestations familiales établies par la CAF. Pour tous les autres revenus, les revenus déclarés avant abattement sont pris en compte. Les revenus à prendre en compte sont ceux de l’année N - 2 (voir Article 44 "Révision du forfait"). Le taux d’effort s’applique sur la somme de tous les revenus de la famille. Le plancher appliqué est communiqué annuellement par la CAF. Le plafond mensuel est de 7145 euros (appliqué par la CAF). Il est voté par le Conseil d’Administration de l’association lors des révisions de tarifs.
 
 | Enfants dans le foyer | Taux d'effort |
 | --------------------- | ------------- |
@@ -418,9 +420,7 @@ Le tarif demandé à la famille est calculé pour un forfait mensuel de 20, 16, 
 | 3, 4 ou 5             | 0,03%         |
 | 6 ou plus             | 0,02%         |
 
-Le taux d’effort (taux CAF 2015) s'applique sur le revenu total de la famille.
-
-Le forfait mensuel (pour l’accueil régulier) et le règlement des journées occasionnelles obéissent aux règles suivantes.
+Le forfait mensuel (pour l’accueil régulier) et le règlement des journées occasionnelles obéissent aux règles suivantes :
 
 * Le paiement de la place réservée : la présence d’un enfant est facturée à la journée.  Cela même s’il est présent une demi-journée (ce qui doit rester exceptionnel, par exemple, en cas de rendez-vous chez le pédiatre)
 
@@ -454,7 +454,7 @@ La spécificité de certaines professions (intermittents du spectacle et profess
 
 #### Article 45. Date de règlement et absences de l’enfant
 
-Le règlement du forfait s’effectue dans les SIX PREMIERS JOURS DU MOIS pour le mois en cours par virement automatique, dans son intégralité. Tout mois commencé est dû entièrement. Le paiement des Journées Occasionnelles se fait à réception de la facture par chèque ou par virement.
+Le règlement du forfait s’effectue dans les SIX PREMIERS JOURS DU MOIS pour le mois en cours par virement automatique ou par prélèvement automatique, dans son intégralité. Tout mois commencé est dû entièrement. Le paiement des journées occasionnelles se fait à réception de la facture par chèque, par virement ou par prélèvement.
 
 Une déduction par rapport au forfait est prévue dans les cas suivants :
 
@@ -464,7 +464,7 @@ Une déduction par rapport au forfait est prévue dans les cas suivants :
 
 * Fermeture annuelle de la crèche
 
-En cas d’absence de l’enfant pour vacances, en dehors de la période de fermeture annuelle de la crèche, il n’est pas prévu de déduction de cotisation mensuelle sauf dans le cadre d’une sixième semaine non facturée telle que défini lors de la première réunion de fonctionnement de l'année scolaire.
+En cas d’absence de l’enfant pour vacances, en dehors de la période de fermeture annuelle de la crèche, il n’est pas prévu de déduction de cotisation mensuelle sauf dans le cadre d’une sixième semaine non facturée tel que défini lors de la première réunion de fonctionnement de l'année scolaire.  Dans ce cadre-là, les vacances doivent être signalées à la direction avec au moins quatre semaines d'avance.
 
 Aucun remboursement n’est consenti en cas d’absence inopinée.
 
@@ -474,13 +474,13 @@ La CAF donne aux services la possibilité de consulter par Internet les ressourc
 
 #### Article 47. Départ en cours d’année
 
-Le contrat crèche est résiliable avec un préavis de 2 mois en dehors de la période d’adaptation. Le présent article ne s’applique pas lorsque le départ a lieu lors de la première semaine d’adaptation (voir Article 14 "Résiliation au cours de l'adaptation").
+Le contrat crèche est résiliable avec un préavis de 2 mois à partir du premier jour de la seconde semaine d’adaptation. Le présent article ne s’applique pas lorsque le départ a lieu lors de la première semaine d’adaptation (voir Article 14 "Résiliation au cours de l'adaptation").
 
 Pendant toute la durée du préavis et pour assurer un bon fonctionnement de la crèche, les parents demeurent responsables de leurs permanences, commission et grand ménage qui doivent être assumés. Dans le cas contraire, les frais de personnel ou de nettoyage correspondants seront à la charge de la famille.
 
 Le grand ménage annuel est obligatoire pour toute famille dont l'enfant est inscrit plus de trois mois consécutifs à la crèche.
 
-Pour des raisons d’organisation de la structure (permanence, commissions, équilibre financier), en cas de départ d’un enfant À LA FIN DU MOIS DE JUIN, la participation financière est due jusqu’à la fin du mois de juillet et la participation active des parents aux commissions et permanences également.
+Pour des raisons d’organisation de la structure (permanence, commissions, équilibre financier), en cas de départ d’un enfant À LA FIN DU MOIS DE JUIN, la participation financière est due jusqu’à la fin du mois de juillet et la participation active des parents aux commissions et permanences également.  Dans le cas contraire, les frais de personnel ou de nettoyage correspondants seront à la charge de la famille.
 
 ### 3. Participation des parents au fonctionnement de la crèche
 
@@ -510,7 +510,7 @@ Les horaires d’arrivée et de départ seront respectés pour le bon fonctionne
 
 Si l’enfant ne vient pas à la crèche (maladie, vacances), ou si le parent ne peut effectuer sa permanence, la famille reste responsable de sa permanence : elle doit trouver elle-même un remplaçant. Il ne peut pas se faire remplacer par une personne extérieure au fonctionnement habituel de la crèche (sauf exception voir Article 54 "Planning des permanences").
 
-En cas d’impossibilité en dernière minute à effectuer une permanence (enfant ou parent malade), il convient de contacter par téléphone les parents susceptibles de remplacer (un mail adressé à l’ensemble des parents ne saurait être suffisant). Une permanence sans parent, c’est un adulte en moins auprès des enfants. La commission Planning n’est pas chargée de trouver un remplaçant pour les permanences.
+En cas d’impossibilité en dernière minute à effectuer une permanence (enfant ou parent malade), il convient de contacter par téléphone les parents susceptibles de remplacer (un mail adressé à l’ensemble des parents ne saurait être suffisant). La commission Planning n’est pas chargée de trouver un remplaçant pour les permanences.
 
 #### Article 51
 
@@ -546,13 +546,11 @@ Les permanences supplémentaires, les "renforts", demandées aux parents par la 
 
 L’accueil des enfants (et donc la participation financière des familles) ne fonctionne pas à la demi-journée (comme ce serait le cas dans une halte garderie). Le parent de permanence du matin peut repartir avec son enfant à 13 h s’il le souhaite mais une journée complète est facturée.
 
-TODO: Permanence lors de la reprise fin août.
-
 #### Article 55. Réunions mensuelles
 
 Une réunion mensuelle réunissant parents et professionnels a lieu à la crèche à 20 h pour aborder un thème pédagogique ou de fonctionnement, permettant d’échanger sur l’actualité de la crèche. Le planning des réunions est affiché dans l’entrée de la crèche (en général le premier jeudi de chaque mois).
 
-La présence des familles est requise à l'occasion de CHAQUE réunion de fonctionnement et de CHAQUE réunion pédagogique. Il appartient à la famille de déterminer lequel des parents est en mesure d'y assister. Les absences sont tolérées à titre exceptionnel, d'autant plus facilement qu'elles sont préalablement communiquées au Comité de Pilotage de la crèche. En cas d’absences non communiquées, d'absences répétées, ce caractère systématique pourra entraîner l’exclusion de la famille de la structure (crèche et association) sur décision du Conseil d’Administration. Deux absences d’une famille impliquent que celle-ci devra du temps à la crèche, à définir avec la directrice et la commission planning. Lorsqu'elle est impliquée dans les organes de la crèche, une famille dont l'enfant est accueilli 1 jour/semaine ou occasionnellement peut obtenir une dérogation avec l'accord du Conseil d'administration.
+La présence des familles est requise à l'occasion de CHAQUE réunion de fonctionnement et de CHAQUE réunion pédagogique. Il appartient à la famille de déterminer lequel des parents est en mesure d'y assister. Les absences sont tolérées à titre exceptionnel, doivent être préalablement communiquées au Comité de pilotage de la crèche. En cas d’absences non communiquées, d'absences répétées, ce caractère systématique pourra entraîner l’exclusion de la famille de la structure (crèche et association) sur décision du Conseil d’administration. Deux absences d’une famille impliquent que celle-ci devra du temps à la crèche, à définir avec la directrice et la commission planning. Lorsqu'elle est impliquée dans les organes de la crèche, une famille dont l'enfant est accueilli 1 jour/semaine ou occasionnellement peut obtenir une dérogation avec l'accord du Conseil d'administration.
 
 ## VII. Communication dans la crèche
 
@@ -560,9 +558,9 @@ Les parents chargés de la communication travaillent en lien étroit avec le com
 
 #### Article 56. Préparation des réunions pédagogiques et de fonctionnement
 
-Une fois par mois, le Comité de Pilotage et la com Planning se réunissent avec la directrice de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations / questions / points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
+Une fois par mois, le Comité de pilotage et la commission Planning se réunissent avec la directrice de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations, les questions et les points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
 
-De même la Commission Pédagogique se réunit avec l’équipe professionnelle pour préparer la réunion pédagogique : repérage des thèmes en rapport avec l’actualité, établissement d’un réservoir thématique, recherche d’informations liées à ces thèmes.
+De même la Commission pédagogique se réunit avec l’équipe professionnelle pour préparer la réunion pédagogique : repérage des thèmes en rapport avec l’actualité, établissement d’un réservoir thématique, recherche d’informations liées à ces thèmes.
 
 Chaque commission prépare un résumé de son actualité à communiquer lors de la réunion mensuelle à l’occasion du "tour des commissions".
 
@@ -656,7 +654,9 @@ Pas de chaussures de ville dans la crèche pour adultes et enfants, y compris le
 
 Pas de téléphone portable dans les pièces de vie des enfants : ils doivent rester dans le hall.
 
-## Annexe III. Parents bénévoles : le choix d’une commission ou comment s’investir dans le fonctionnement de la crèche ?
+## Annexe III. Comment s’investir dans le fonctionnement de la crèche ?
+
+Les parents se voient confier une commission qui permet d'assurer le fonctionnement de la crèche Capucine.
 
 Le cahier de parrainage et les fiches de poste décrivent de façon plus détaillée les tâches et les responsabilités qui incombent aux différentes commissions.
 

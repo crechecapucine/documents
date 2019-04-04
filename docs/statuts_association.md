@@ -55,7 +55,7 @@ Chaque membre s’engage à :
 
 * accepter les dispositions des statuts et du Règlement intérieur
 
-**Membres adhérents** : Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Doit acquitter l’adhésion annuelle. Électeur, éligible.
+**Membres adhérents** : Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Un Membre adhérent doit acquitter l’adhésion annuelle; la période de validité de l'adhésion est l'année scolaire, du 1er septembre au 31 août.  Le Membre adhérent est à la fois électeur et éligible.
 
 **Membres bienfaiteurs** : Toute personne physique ou morale apportant un soutien financier sans bénéficier des services de l'Association. Elle ne paie pas d’adhésion annuelle et n‘a pas de voix délibérative.
 
@@ -125,7 +125,7 @@ La crèche Capucine élit un **Comité de pilotage** parmi les usagers-adhérent
 
 Le Conseil d’administration de l’Association élit parmi ses membres ou parmi les membres des Comités de pilotage, dans les conditions qui sont fixées au Règlement intérieur de l’Association, un bureau composé au moins de :
 
-* un **Président de l'Association**,
+* un **Président**,
 
 * un **Secrétaire**
 
@@ -135,7 +135,7 @@ Les membres sortants du Bureau sont rééligibles. Les Membres bienfaiteurs ne p
 
 Le Conseil d’administration et le Bureau exercent leur responsabilité conformément aux décisions de l'Assemblée générale et au Règlement intérieur. Tous les membres du Conseil d'administration sont tenus à la confidentialité.
 
-Le Président représente l’Association dans tous les actes de la vie civile. Il ordonnance les dépenses. Après délibération du CA, le Président et le Trésorier peuvent donner délégation. Les missions déléguées sont inscrites au Règlement intérieur.
+Le Président représente l’Association dans tous les actes de la vie civile. Il ordonnance les dépenses. Après délibération du Conseil d'administration, le Président et le Trésorier peuvent donner délégation. Les missions déléguées sont inscrites au Règlement intérieur.
 
 #### Article 13. Membres jardiniers
 
@@ -155,13 +155,13 @@ La présence de la moitié au moins de ses membres est nécessaire pour que le C
 
 En cas de vacance de siège (membre du Bureau ou Membre administrateur) le Conseil d’administration, peut nommer un remplaçant, selon les dispositions prévues au Règlement intérieur.
 
-#### Article 16. Assemblée générale ordinaire
+#### Article 16. Assemblée générale
 
-L’**Assemblée générale ordinaire** de l’Association est constituée par la réunion des Membres adhérents. Elle se compose des membres à jour de leur adhésion à la date de sa tenue. Elle se réunit au moins une fois par an et chaque fois qu’elle est convoquée par le Conseil d’administration ou sur la demande d’au moins un quart de ses membres. Le rapport annuel et les comptes sont disponibles chaque année pour tous les membres de l’Association. Ils seront envoyés sur simple demande. Son ordre du jour est établi par le Conseil d’administration.
+L’**Assemblée générale** de l’Association est constituée par la réunion des Membres adhérents. Elle se compose des membres à jour de leur adhésion à la date de sa tenue.  L'Assemblée générale se réunit au moins une fois par an (Assemblée générale ordinaire) et chaque fois qu’elle est convoquée par le Conseil d’administration ou sur la demande d’au moins un quart de ses membres (Assemblée générale extraordinaire). Le rapport annuel et les comptes sont disponibles chaque année pour tous les membres de l’Association. Ils seront envoyés sur simple demande. Son ordre du jour est établi par le Conseil d’administration.
 
-Le Président, assisté des membres du Bureau, préside l’assemblée générale : il expose la situation de l’Association, ses réalisations, ses projets à venir. Le trésorier rend compte de sa gestion assisté du trésorier de la crèche.
+Le Président, assisté des membres du Bureau, préside l’assemblée générale : il expose la situation de l’Association, ses réalisations, ses projets à venir. Le trésorier rend compte de sa gestion.
 
-L'Assemblée entend les rapports sur la gestion du Conseil d’administration, sur la situation financière et morale de l’Association. Elle approuve les comptes de l’exercice clos, délibère sur les questions mises à l’ordre du jour. Les décisions de l'Assemblée générale ordinaire sont prises à la majorité simple des membres présents ou représentés. Toutes les délibérations sont prises à mains levées. Toutefois, à la demande du quart au moins des membres présents, les votes peuvent être émis au scrutin secret.
+L'Assemblée entend les rapports sur la gestion du Conseil d’administration, sur la situation financière et morale de l’Association. Elle approuve les comptes de l’exercice clos, délibère sur les questions mises à l’ordre du jour. Les décisions de l'Assemblée générale sont prises à la majorité simple des membres présents ou représentés. Toutes les délibérations sont prises à mains levées. Toutefois, à la demande du quart au moins des membres présents, les votes peuvent être émis au scrutin secret.
 
 Les résolutions sont constatées par des procès-verbaux. Chaque membre adhérent, personne morale ou physique, possède une voix et tout membre adhérent peut également se faire représenter à l’Assemblée générale selon les conditions prévues au Règlement intérieur.
 
@@ -189,6 +189,10 @@ Il est tenu une comptabilité conforme aux prescriptions légales et réglementa
 
 ## IV. Modification des statuts et dissolution
 
-#### Article 19. Modifications des statuts et dissolution
+#### Article 19. Modifications des statuts et du Règlement intérieur, dissolution
 
-La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901. Les statuts ne peuvent être modifiés, sur proposition du Conseil d'administration, qu’après accord de l’Assemblée générale. Le Règlement intérieur peut être modifié par le Conseil d’administration. Il sera ratifié par l’Assemblée Générale.
+Les statuts ne peuvent être modifiés, sur proposition du Conseil d'administration, qu’après accord de l’Assemblée générale.
+
+Le Règlement intérieur peut être modifié par le Conseil d’administration. Il sera ratifié par l’Assemblée Générale.
+
+La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
