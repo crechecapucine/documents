@@ -4,7 +4,7 @@ author: Capucine et papillons, jardin d'enfance
 date:   25/5/2019
 ---
 
-# Statuts de l'association
+# Statuts de l'Association
 
 * Intégrant les modifications du 18 juin 2008
 * Intégrant les modifications du 3 février 2010
@@ -33,9 +33,9 @@ Sa durée est illimitée.
 
 L’Association a pour objet :
 
-* de promouvoir toute action favorisant une qualité dans l’accueil de l’enfant et tout projet innovant concernant l’enfance, la famille et la parentalité,
+* de promouvoir toute action favorisant une qualité dans l’accueil de l’enfant et tout projet innovant concernant l’enfance, la famille et la parentalité ;
 
-* de créer et gérer des services à la famille, des lieux d’accueil de jeunes enfants, et développer toute activité concourant à ce but,
+* de créer et gérer des services à la famille, des lieux d’accueil de jeunes enfants, et développer toute activité concourant à ce but ;
 
 * d’ouvrir des espaces de rencontre et de réflexion en matière d’accompagnement de la parentalité et des réseaux d’échange et d’entraide entre parents.
 
@@ -57,7 +57,7 @@ Chaque membre s’engage à :
 
 * accepter les dispositions des statuts et du Règlement intérieur
 
-**Membres adhérents** : Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Un Membre adhérent doit acquitter l’adhésion annuelle; la période de validité de l'adhésion est l'année scolaire, du 1er septembre au 31 août.  Le Membre adhérent est à la fois électeur et éligible.
+**Membres adhérents** : Personne physique en accord avec les critères définis par le Règlement intérieur, qui participe régulièrement aux activités et contribue donc activement à la réalisation des objectifs de l’Association. Un Membre adhérent doit acquitter l’adhésion annuelle ; la période de validité de l'adhésion est l'année scolaire, du 1er septembre au 31 août.  Le Membre adhérent est à la fois électeur et éligible.
 
 **Membres bienfaiteurs** : Toute personne physique ou morale apportant un soutien financier sans bénéficier des services de l'Association. Elle ne paie pas d’adhésion annuelle et n‘a pas de voix délibérative.
 
@@ -141,7 +141,7 @@ Le Président représente l’Association dans tous les actes de la vie civile. 
 
 #### Article 13. Membres jardiniers
 
-Les **Membres jardiniers** sont des membres parmi les anciens élus des Comités de pilotage (crèche Capucine ou Jardin des parents) admis à siéger au sein du Conseil d'administration dans les conditions qui sont fixées au Règlement intérieur de l’Association.
+Les **Membres jardiniers** sont des membres parmi les anciens élus des Comités de pilotage (crèche Capucine ou Jardin des parents) ou du Bureau admis à siéger au sein du Conseil d'administration dans les conditions qui sont fixées au Règlement intérieur de l’Association.
 
 #### Article 14. Fonctionnement du Conseil d'administration
 
@@ -175,13 +175,13 @@ Il est également tenu une feuille de présence, qui est signée par chaque memb
 
 Les ressources annuelles de l‘Association se composent :
 
-* des adhésions de ses membres,
+* des adhésions de ses membres ;
 
-* de la participation financière des personnes utilisant les services de l’Association,
+* de la participation financière des personnes utilisant les services de l’Association ;
 
-* des subventions des CAF, des mairies, des Conseils généraux ou régionaux, Fondations,
+* des subventions des CAF, des mairies, des Conseils généraux ou régionaux, Fondations ;
 
-* de tout organisme public ou privé, de tout autre moyen permis par la loi,
+* de tout organisme public ou privé, de tout autre moyen permis par la loi ;
 
 * des dons des Membres bienfaiteurs.
 
