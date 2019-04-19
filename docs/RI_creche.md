@@ -45,7 +45,7 @@ date:   16/4/2019
 
 **VI - Implication des parents et dispositions financières**
 
-1. Parents partenaires : une coopération active
+1. Parents partenaires: une coopération active
 2. Dispositions financières
 3. Participation des parents au fonctionnement de la crèche
 
@@ -63,7 +63,7 @@ date:   16/4/2019
 
 **Annexe II.** Règles de sécurité pour les adultes et les enfants
 
-**Annexe III.** Parents bénévoles : le choix d’une commission ou comment s’investir dans le fonctionnement de la crèche ?
+**Annexe III.** Parents bénévoles: le choix d’une commission ou comment s’investir dans le fonctionnement de la crèche ?
 
 ## Présentation
 
@@ -75,7 +75,7 @@ Les parents de la crèche Capucine sont adhérents de l’association Capucine e
 
 ### 1. Accueil collectif régulier ou occasionnel
 
-La capacité d’accueil est de 18 places par jour du lundi au vendredi avec les modes d’accueil suivants :
+La capacité d’accueil est de 18 places par jour du lundi au vendredi avec les modes d’accueil suivants:
 
 * des places à temps plein destinées aux enfants de 3 mois à 4 ans, avec réservation par contrat de 5 journées par semaine;
 
@@ -93,7 +93,7 @@ La crèche est ouverte du lundi au vendredi de 8 h 30 à 19 h.
 
 #### Article 1. Arrivée et départ
 
-Les arrivées des enfants s’effectuent avant 9 h 30 (départ des parents avant 9 h 45) ; les départs des enfants de la crèche se font à partir de 16 h 30. Les parents sont tenus de respecter ces horaires, sauf exception et une fois les professionnels informés à l'avance.
+Les arrivées des enfants s’effectuent avant 9 h 30 (départ des parents avant 9 h 45); les départs des enfants de la crèche se font à partir de 16 h 30. Les parents sont tenus de respecter ces horaires, sauf exception et une fois les professionnels informés à l'avance.
 
 Le respect de ces horaires permet d’accueillir chacun des enfants dans les meilleures conditions, de respecter le groupe, les professionnels étant complètement disponibles pour le "temps de séparation" et de "retrouvailles". Lorsqu’une sortie se prépare, qu’une activité est mise en place, l’équipe éducative n’est plus disponible pour accompagner les séparations du matin.
 
@@ -115,7 +115,7 @@ Les repas sont confectionnés sur place par un ou une cuisinière avec des produ
 
 #### Article 4
 
-Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation avec la direction, le responsable technique ou le médecin de la crèche.
+Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation par la direction, le responsable technique ou le médecin de la crèche.
 
 #### Article 5
 
@@ -137,13 +137,13 @@ L’équipe de la crèche se compose de professionnels diplômés de la petite e
 
 Lieu de formation et partenaire de plusieurs centres de formation, la crèche peut accueillir des apprentis et/ou des stagiaires, par exemple, d’école d’éducateur de jeunes enfants et d’auxiliaire de puériculture, dans le cadre du réseau de formation. Ces apprentis et stagiaires sont sous la responsabilité exclusive de l’équipe professionnelle.
 
-La continuité de direction est assurée par la responsable technique ou, en son absence, par un éducateur de jeunes enfants.
+La continuité de direction est assurée par le responsable technique ou, en son absence, par un éducateur de jeunes enfants.
 
 #### Article 8. Effectif de l’équipe éducative auprès des enfants
 
 L’effectif du personnel placé auprès des enfants est d’un professionnel pour cinq enfants qui ne marchent pas et d’un professionnel pour huit enfants qui marchent. Conformément au décret d’août 2000 pour des questions de sécurité, l’effectif des adultes présent auprès des enfants à tout moment de la structure d’accueil ne doit pas être inférieur à deux, dont au moins un professionnel qualifié assisté d’un parent ou d’une autre personne.
 
-Exceptionnellement, en cas d’absence d’un professionnel qualifié (maladie, formation, congé), un parent participant régulièrement à l'accueil des enfants peut le remplacer : le parent de permanence est responsable du groupe d’enfants qu’il encadre et dont il assure la sécurité. Exceptionnellement, le bureau, en consultation avec la direction, peut fermer la crèche si les bonnes conditions d’encadrement ne sont pas réunies.
+Exceptionnellement, en cas d’absence d’un professionnel qualifié (maladie, formation, congé), un parent participant régulièrement à l'accueil des enfants peut le remplacer: le parent de permanence est responsable du groupe d’enfants qu’il encadre et dont il assure la sécurité. Exceptionnellement, le bureau, en consultation avec la direction, peut fermer la crèche si les bonnes conditions d’encadrement ne sont pas réunies.
 
 Le planning de l’équipe est affiché dans le bureau de la crèche.
 
@@ -153,9 +153,9 @@ L'équipe professionnelle assure un travail en équipe afin de mettre en pratiqu
 
 L’enfant et sa famille seront accompagnés dans leurs premières séparations puis au départ de la crèche vers l’école en favorisant la mise en place de passerelles avec l’école maternelle ou le jardin d'enfants.
 
-Le projet pédagogique de la crèche n’est pas statique : il nécessite une réflexion et des évolutions. Sur ce point, les parents peuvent être consultés, mais ne sont pas décisionnaires : la prise de décision revient à l’équipe professionnelle sur les aspects concernant la pédagogie (exemple : aménagement de l’espace, règles de vie dans la crèche, déroulement des adaptations, mise en place des activités, etc.)
+Le projet pédagogique de la crèche n’est pas statique: il nécessite une réflexion et des évolutions. Sur ce point, les parents peuvent être consultés, mais ne sont pas décisionnaires: la prise de décision revient à l’équipe professionnelle sur les aspects concernant la pédagogie (exemple: aménagement de l’espace, règles de vie dans la crèche, déroulement des adaptations, mise en place des activités, etc.)
 
-Les prises de décisions ayant une implication sur la gestion et le fonctionnement de la crèche seront soumises au Conseil d’administration de l’Association et la réflexion menée avec lui. La mise en place d’activités, d’animations ou de sorties par les parents auprès des enfants est encouragée : elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté ou non à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine.
+Les prises de décisions ayant une implication sur la gestion et le fonctionnement de la crèche seront soumises au Conseil d’administration de l’Association et la réflexion menée avec lui. La mise en place d’activités, d’animations ou de sorties par les parents auprès des enfants est encouragée: elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté ou non à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine.
 
 L'équipe profesionnelle peut proposer et organiser, éventuellement avec le soutien des parents, des sorties (bibliothèque, marché, ludothèque).
 
@@ -173,11 +173,11 @@ Les professionnels en formation ne peuvent ni effectuer de sorties non accompagn
 
 Les inscriptions se font avec la direction, assistée de la commission "planning", de la commission "accueil nouvelles familles" et du reste de l’équipe, qui détermine avec la famille le planning de présence hebdomadaire de l’enfant, la date du début de l’adaptation, en fonction des places vacantes. Lors de l’inscription, un dossier dans lequel figurera le planning des journées réservées pour l’enfant est rempli.
 
-Plusieurs types de contrats sont proposés au sein de la structure :
+Plusieurs types de contrats sont proposés au sein de la structure:
 
 * accueil régulier (la place est réservée) à temps plein ou temps partiel qui sera formalisé par un contrat annuel de 10 h par jour. Le contrat engage les parents pendant toute sa durée sur les jours de fréquentation hebdomadaire réservés. Le contrat sera reconduit après révision de la tarification par année scolaire jusqu’au départ définitif de l’enfant.
 
-* accueil occasionnel (non planifié annuellement), L’accueil des enfants est organisé en fonction des places vacantes (exemple : périodes de vacances scolaires).
+* accueil occasionnel (non planifié annuellement), L’accueil des enfants est organisé en fonction des places vacantes (exemple: périodes de vacances scolaires).
 
 #### Article 11
 
@@ -189,21 +189,21 @@ En cas de maternité, la famille est dispensée de permanence pendant une durée
 
 L’admission de l’enfant se fait après adhésion des parents à l’association, au projet pédagogique, au règlement intérieur et après versement des participations financières prévues au règlement intérieur (voir Article 43 "Participation financière des familles").
 
-L'admission d’un enfant à la crèche nécessite les documents et formalités suivantes :
+L'admission d’un enfant à la crèche nécessite les documents et formalités suivantes:
 
-* Le dossier d’inscription comprenant : les renseignements d'état civil, les coordonnées complètes des parents au domicile et à leur(s) lieu(x) de travail, les coordonnées d'une personne susceptible de reprendre l'enfant, les renseignements particuliers concernant le régime alimentaire et l'état de santé de l'enfant, une autorisation d'hospitalisation, les coordonnées du médecin traitant ;
+* Le dossier d’inscription comprenant: les renseignements d'état civil, les coordonnées complètes des parents au domicile et à leur(s) lieu(x) de travail, les coordonnées d'une personne susceptible de reprendre l'enfant, les renseignements particuliers concernant le régime alimentaire et l'état de santé de l'enfant, une autorisation d'hospitalisation, les coordonnées du médecin traitant;
 
-* Le dossier médical et photocopies des pages de vaccinations du carnet de santé (voir Article 29 "Pièces du dossier médical") ;
+* Le dossier médical et photocopies des pages de vaccinations du carnet de santé (voir Article 29 "Pièces du dossier médical");
 
-* La décharge de responsabilité en faveur d'un professsionnel ou du parent de permanence en cas d'urgence médicale ;
+* La décharge de responsabilité en faveur d'un professsionnel ou du parent de permanence en cas d'urgence médicale;
 
-* L'autorisation de sortie ;
+* L'autorisation de sortie;
 
-* Le numéro CAF ou justificatifs des revenus du foyer, avis d’imposition ;
+* Le numéro CAF ou justificatifs des revenus du foyer, avis d’imposition;
 
-* Le certificat d’adhésion annuelle à l’Association ;
+* Le certificat d’adhésion annuelle à l’Association;
 
-* La dernière mensualité due à la signature de celui-ci en même temps que celle du premier mois ;
+* La dernière mensualité due à la signature de celui-ci en même temps que celle du premier mois;
 
 * L'ordre de virement automatique des mensualités à la crèche.
 
@@ -211,7 +211,7 @@ L'admission d’un enfant à la crèche nécessite les documents et formalités 
 
 #### Article 13. Modalités de l'adaptation
 
-Le temps d’adaptation concerne tous les enfants quel que soit le mode d’accueil choisi. Dans l’intérêt des enfants, l’adaptation sera progressive. Le temps d’adaptation est variable selon l’enfant : il dure en moyenne 2 semaines continues (pour les enfants accueillis à temps plein et temps partiel).
+Le temps d’adaptation concerne tous les enfants quel que soit le mode d’accueil choisi. Dans l’intérêt des enfants, l’adaptation sera progressive. Le temps d’adaptation est variable selon l’enfant: il dure en moyenne 2 semaines continues (pour les enfants accueillis à temps plein et temps partiel).
 
 #### Article 14. Résiliation au cours de l'adaptation
 
@@ -221,13 +221,13 @@ Pendant la première semaine d’adaptation, le contrat crèche est résiliable 
 
 #### Article 15
 
-L’enfant est en tenue adaptée à la vie en crèche, sans bijou. A l’arrivée, les vêtements seront accrochés au porte-manteau réservé à l’enfant, les chaussures rangées dans son casier. Les parents auront à fournir le trousseau suivant :
+L’enfant est en tenue adaptée à la vie en crèche, sans bijou. A l’arrivée, les vêtements seront accrochés au porte-manteau réservé à l’enfant, les chaussures rangées dans son casier. Les parents auront à fournir le trousseau suivant:
 
-* vêtements de change ;
+* vêtements de change;
 
-* vêtements, chaussures, bonnet ou chapeau de soleil adaptés à la saison à placer dans le casier pour les sorties ;
+* vêtements, chaussures, bonnet ou chapeau de soleil adaptés à la saison à placer dans le casier pour les sorties;
 
-* son ou ses objets préférés (doudou, tétine) ;
+* son ou ses objets préférés (doudou, tétine);
 
 Il est recommandé de marquer le linge de l’enfant à son nom.
 
@@ -251,7 +251,7 @@ Il est demandé aux parents de prévoir une poussette peu encombrante en raison 
 
 #### Article 19
 
-À tout moment, les principes suivants devront être respectés :
+À tout moment, les principes suivants devront être respectés:
 
 * Un enfant ne doit jamais rester seul
 
@@ -309,13 +309,13 @@ Le non respect des règles de comportement fixées par le présent règlement, n
 
 #### Article 29. Pièces du dossier médical
 
-À l’admission, un dossier médical est constitué :
+À l’admission, un dossier médical est constitué:
 
 * Une fiche médicale fournissant des renseignements généraux (antécédents, allergies, vaccins, régime alimentaire, traitement, handicap, etc.)
 
 * Certificat d’aptitude à la vie en collectivité établi par le médecin traitant et tout projet d’accueil personnalisé (PAI)
 
-* Justificatifs des vaccins : photocopies carnet de santé
+* Justificatifs des vaccins: photocopies carnet de santé
 
 * Nom et numéro de téléphone du médecin traitant
 
@@ -353,7 +353,7 @@ Les parents sont tenus de renseigner régulièrement la fiche de poids. Cette in
 
 Un enfant atteint d’une maladie contagieuse nécessitant une éviction et ceux dont l’état nécessite une surveillance ou des conditions de confort particulières ne seront pas accueillis dans la structure. Sa réadmission ne sera possible qu’à la guérison clinique de la maladie ou au vu d’un certificat médical attestant qu’il a été soumis à un traitement approprié.
 
-L’éviction sera prononcée par la direction ou le médecin de crèche ; en cas d’absence, le responsable technique est en mesure de refuser l’admission de l’enfant.
+L’éviction sera prononcée par la direction ou le médecin de crèche; en cas d’absence, le responsable technique est en mesure de refuser l’admission de l’enfant.
 
 #### Article 37
 
@@ -373,13 +373,13 @@ L’Association a souscrit une police d’assurance responsabilité civile et in
 
 ## VI. Implication des parents et dispositions financières
 
-### 1. Parents partenaires : une coopération active
+### 1. Parents partenaires: une coopération active
 
 Une adaptation en collectivité ne peut être réussie que si les parents se sentent en confiance et accueillis au même titre que leur enfant.
 
 Aussi chaque nouvelle famille est accueillie individuellement par un professionnel EJE référent et par une famille de la crèche qui répondra à toutes les questions concernant le fonctionnement de l’Association et ce que l’on attend des parents. La nouvelle famille devient membre de l’association Capucine et Papillons Jardin d’enfance et à ce titre adhère aux statuts de l’Association et à son projet associatif.
 
-Au sein de la crèche, la collaboration parent-professionnel est basée sur une attitude d’ouverture et d’écoute ; elle sera favorisée par un dialogue, une compréhension mutuelle et la valorisation des compétences de chacun.
+Au sein de la crèche, la collaboration parent-professionnel est basée sur une attitude d’ouverture et d’écoute; elle sera favorisée par un dialogue, une compréhension mutuelle et la valorisation des compétences de chacun.
 
 Les parents d’un enfant admis à la crèche Capucine deviennent "membres actifs adhérents" de l’association loi 1901 Capucine et papillons, jardin d’enfance. Cela implique certaines obligations décrites dans les articles suivants.
 
@@ -418,9 +418,9 @@ Les ressources à prendre en compte sont les revenus déclarés du foyer AVANT a
 | 3, 4 ou 5             | 0,03%         |
 | 6 ou plus             | 0,02%         |
 
-Le forfait mensuel (pour l’accueil régulier) et le règlement des journées occasionnelles obéissent aux règles suivantes :
+Le forfait mensuel (pour l’accueil régulier) et le règlement des journées occasionnelles obéissent aux règles suivantes:
 
-* Le paiement de la place réservée : la présence d’un enfant est facturée à la journée.  Cela même s’il est présent une demi-journée (ce qui doit rester exceptionnel, par exemple, en cas de rendez-vous chez le pédiatre).
+* Le paiement de la place réservée: la présence d’un enfant est facturée à la journée.  Cela même s’il est présent une demi-journée (ce qui doit rester exceptionnel, par exemple, en cas de rendez-vous chez le pédiatre).
 
 * Le forfait mensuel est fixé par contrat pour la période prévisible de fréquentation par l’enfant dans la structure. Il peut être hebdomadaire pour répondre aux situations atypiques.
 
@@ -428,11 +428,11 @@ Le forfait mensuel (pour l’accueil régulier) et le règlement des journées o
 
 * La participation financière due pour les journées occasionnelles est calculée sur la base du tarif journalier contenu dans le contrat.
 
-* Aucune journée d’absence pour maladie ne sera déduite, sauf dans les cas suivants :
+* Aucune journée d’absence pour maladie ne sera déduite, sauf dans les cas suivants:
 
-	1. en cas d’hospitalisation, sur présentation d’un bulletin d’hospitalisation ;
+	1. en cas d’hospitalisation, sur présentation d’un bulletin d’hospitalisation;
 	
-	2. en cas d'absence sur 4 jours d'accueil consécutifs ou plus, justifiée par un certificat médical ; dans ce cas, un délai de carence de 3 jours s'applique.
+	2. en cas d'absence sur 4 jours d'accueil consécutifs ou plus, justifiée par un certificat médical; dans ce cas, un délai de carence de 3 jours s'applique.
 
 Ce tarif couvre la prise en charge intégrale de l’enfant (couches, alimentation). Les dépenses spécifiques à l’enfant (allergie alimentaire, prescriptions médicales, lait infantile différent celui de la crèche) sont à la charge des familles.
 
@@ -444,7 +444,7 @@ Le tarif mensuel est déterminé à l’admission de l’enfant pour la période
 
 Le forfait est révisé chaque année en janvier sur la base d’imposition de l’année N - 2.
 
-Exemple : au 1er janvier 2020, le revenu considéré sera celui de l’avis d’imposition 2018.
+Exemple: au 1er janvier 2020, le revenu considéré sera celui de l’avis d’imposition 2018.
 
 En cas de changement significatif de la situation familiale (par exemple, naissance, décès, divorce) ou en cas de modification de la situation professionnelle (chômage, cessation d’activité), le forfait est révisable exceptionnellement en cours d’année. La décision de modification du forfait est prise par le Bureau de l’Association qui pourra demander des justificatifs fournis par les parents demandeurs. Cette révision ne pourra avoir un effet rétroactif. La nouvelle tarification sera établie à compter de la date de production de pièces justificatives.
 
@@ -454,7 +454,7 @@ La spécificité de certaines professions (intermittents du spectacle et profess
 
 Le règlement du forfait s’effectue dans les six premiers jours du mois pour le mois en cours par virement automatique ou par prélèvement automatique, dans son intégralité. Tout mois commencé est dû entièrement. Le paiement des journées occasionnelles se fait à réception de la facture par chèque, par virement ou par prélèvement.
 
-Une déduction par rapport au forfait est prévue dans les cas suivants :
+Une déduction par rapport au forfait est prévue dans les cas suivants:
 
 * Hospitalisation de l’enfant
 
@@ -484,7 +484,7 @@ Pour des raisons d’organisation de la structure (permanence, commissions, équ
 
 #### Article 48. La permanence
 
-Les parents d’un enfant admis à la crèche sont impliqués dans le déroulement de la journée en effectuant une permanence régulière. Les permanences sont obligatoires : elles permettent le bon fonctionnement et l’implication active des parents. Elles sont faites en présence de l’enfant (sauf exception, maladie ou vacances).
+Les parents d’un enfant admis à la crèche sont impliqués dans le déroulement de la journée en effectuant une permanence régulière. Les permanences sont obligatoires: elles permettent le bon fonctionnement et l’implication active des parents. Elles sont faites en présence de l’enfant (sauf exception, maladie ou vacances).
 
 Cette permanence correspond à une demi-journée fixe dans la semaine, définie en début d’année ou après l’adaptation si l’enfant arrive en cours d’année.
 
@@ -506,7 +506,7 @@ Les horaires d’arrivée et de départ seront respectés pour le bon fonctionne
 
 #### Article 50
 
-Si l’enfant ne vient pas à la crèche (maladie, vacances), ou si le parent ne peut effectuer sa permanence, la famille reste responsable de sa permanence : elle doit trouver elle-même un remplaçant. Elle ne peut pas se faire remplacer par une personne extérieure au fonctionnement habituel de la crèche (sauf exception voir Article 54 "Planning des permanences").
+Si l’enfant ne vient pas à la crèche (maladie, vacances), ou si le parent ne peut effectuer sa permanence, la famille reste responsable de sa permanence: elle doit trouver elle-même un remplaçant. Elle ne peut pas se faire remplacer par une personne extérieure au fonctionnement habituel de la crèche (sauf exception voir Article 54 "Planning des permanences").
 
 En cas d’impossibilité en dernière minute à effectuer une permanence (enfant ou parent malade), il convient de contacter par téléphone les parents susceptibles de remplacer (un e-mail adressé à l’ensemble des parents ne saurait être suffisant). La commission Planning n’est pas chargée de trouver un remplaçant pour les permanences.
 
@@ -516,7 +516,7 @@ Toute modification (ponctuelle) des dates de permanence sera signalée à l’é
 
 #### Article 52
 
-Le parent de permanence est à l’écoute des besoins exprimés par l’équipe. Lors des permanences, les parents sont responsables, avec l’équipe des professionnels, des enfants. Ils participent à l’animation de la journée, conformément au projet pédagogique et au règlement intérieur : il s’agit de toute activité nécessaire au bon fonctionnement de la crèche et au bien-être des enfants : jeux, surveillance, petites tâches ménagères (voir liste en annexe).
+Le parent de permanence est à l’écoute des besoins exprimés par l’équipe. Lors des permanences, les parents sont responsables, avec l’équipe des professionnels, des enfants. Ils participent à l’animation de la journée, conformément au projet pédagogique et au règlement intérieur: il s’agit de toute activité nécessaire au bon fonctionnement de la crèche et au bien-être des enfants: jeux, surveillance, petites tâches ménagères (voir liste en annexe).
 
 Dans l’esprit du projet de l’association, les frères et sœurs sont acceptés lors des permanences. Leur parent veille au bon respect des règles de la crèche. Les parents présents et les professionnels peuvent à tout moment intervenir auprès de ces enfants si besoin, même s’ils restent sous la responsabilité de leurs parents.
 
@@ -526,7 +526,7 @@ Toutefois, si les parents sont dans l’impossibilité momentanée pour raison m
 
 #### Article 54. Planning des permanences
 
-À compter du 1er septembre 2019, le planning des permanences est fonction de la fréquentation de l’enfant :
+À compter du 1er septembre 2019, le planning des permanences est fonction de la fréquentation de l’enfant:
 
 | Accueil                         | Fréquence des permanences  |
 | ------------------------------- | -------------------------- |
@@ -540,7 +540,7 @@ Dans le cas du mode de garde occasionnel, une permanence est due pour cinq jours
 
 Les permanences ont lieu durant les jours de présence de l’enfant si l’enfant est accueilli à temps partiel. Ainsi, lorsqu’un enfant est présent les lundis, mardis, jeudis et vendredis, la permanence est faite sur l’une de ces journées et pas le mercredi. Si la famille souhaite faire sa permanence le mercredi le forfait de l’enfant sera alors de 5 jours. De façon exceptionnelle et à la demande de la famille, un échange de permanence peut avoir lieu sur une journée hors forfait. Si l’enfant est accueilli à la crèche, cette journée sera facturée à la famille.
 
-Les permanences supplémentaires, les "renforts", demandées aux parents par la crèche sur une journée qui n’est pas habituellement dans le forfait de l’enfant (exemple : pour faire face à l’absence d’un professionnel, pour une sortie, ou un créneau non pourvu dans le planning des permanences), ne sont pas dues financièrement par la famille.
+Les permanences supplémentaires, les "renforts", demandées aux parents par la crèche sur une journée qui n’est pas habituellement dans le forfait de l’enfant (exemple: pour faire face à l’absence d’un professionnel, pour une sortie, ou un créneau non pourvu dans le planning des permanences), ne sont pas dues financièrement par la famille.
 
 L’accueil des enfants (et donc la participation financière des familles) ne fonctionne pas à la demi-journée (comme ce serait le cas dans une halte garderie). Le parent de permanence du matin peut repartir avec son enfant à 13 h s’il le souhaite mais une journée complète est facturée.
 
@@ -572,11 +572,11 @@ Attention — Quel que soit le moyen de communication utilisé, il faut garder �
 
 L'e-mail est un moyen rapide et pratique de communication des informations. (Certaines familles peuvent ne pas avoir d’e-mail.)
 
-Tableau d’affichage : à l’entrée de la crèche des tableaux d’affichage donnent des informations quotidiennes. (Certaines familles à temps partiel ou en vacances peuvent ne pas pouvoir consulter le tableau.)
+Tableau d’affichage: à l’entrée de la crèche des tableaux d’affichage donnent des informations quotidiennes. (Certaines familles à temps partiel ou en vacances peuvent ne pas pouvoir consulter le tableau.)
 
-Un groupe WhatsApp a été créé pour répondre aux besoins les plus urgents : le bureau pourra ainsi avertir dans les meilleurs délais les parents d’une fermeture exceptionnelle de la crèche (par exemple, en cas d’intempéries majeures) ou un parent pourra signaler un problème de dernière minute pour assurer l’ouverture. (Certaines familles peuvent ne pas avoir de compte WhatsApp.)
+Un groupe WhatsApp a été créé pour répondre aux besoins les plus urgents: le bureau pourra ainsi avertir dans les meilleurs délais les parents d’une fermeture exceptionnelle de la crèche (par exemple, en cas d’intempéries majeures) ou un parent pourra signaler un problème de dernière minute pour assurer l’ouverture. (Certaines familles peuvent ne pas avoir de compte WhatsApp.)
 
-Appel téléphonique : les numéros de téléphone sont mis à jour dans l’annuaire de la crèche.
+Appel téléphonique: les numéros de téléphone sont mis à jour dans l’annuaire de la crèche.
 
 ## VIII. Application du règlement intérieur
 
@@ -596,7 +596,7 @@ Le déroulement d’une permanence est décrit avec plus de détails dans un cah
 
 ### 1. Horaires des permanences
 
-Les horaires des permanences sont les suivants :
+Les horaires des permanences sont les suivants:
 
 * de 8 h 30 à 12 h 30 pour la permanence du matin,
 * de 13 h à 17 h pour la première permanence de l'après-midi,
@@ -638,19 +638,19 @@ Les parents de permanence devront adapter l'organisation selon que le planning i
 
 ## Annexe II. Règles de sécurité pour les adultes et les enfants
 
-Lieux interdits aux enfants, même dans les bras du parent : la cuisine ou le local fonctionnel. Le bureau est interdit en l'absence d'un professionnel. N’hésitez pas à demander un relais quand vous êtes dans la cuisine ou dans le local technique pour vous occuper des machines et réclamé par votre enfant (surtout lors des premières permanences).
+Lieux interdits aux enfants, même dans les bras du parent: la cuisine ou le local fonctionnel. Le bureau est interdit en l'absence d'un professionnel. N’hésitez pas à demander un relais quand vous êtes dans la cuisine ou dans le local technique pour vous occuper des machines et réclamé par votre enfant (surtout lors des premières permanences).
 
 Il est indispensable d’être vigilant à la sécurité des enfants dans la salle du jeu d'eau. L’adulte ne laisse jamais les enfants seuls dans cette pièce. En dehors du jeu d’eau les tapis orange seront installés dans la pataugeoire pour éviter tout risque de chutes.
 
-La structure motrice : pas de jouets qui encombrent la structure motrice lorsqu’ils représentent un danger pour les enfants apprenant à marcher. En cas de doute, l’équipe professionnelle peut être consultée.
+La structure motrice: pas de jouets qui encombrent la structure motrice lorsqu’ils représentent un danger pour les enfants apprenant à marcher. En cas de doute, l’équipe professionnelle peut être consultée.
 
-Tables et chaises : on ne monte pas dessus sauf dans le cadre d’activités élaborées à l’aide de l’équipe professionnelle.
+Tables et chaises: on ne monte pas dessus sauf dans le cadre d’activités élaborées à l’aide de l’équipe professionnelle.
 
 Ne pas monter ou s’asseoir sur les rebords, qui sont fragiles.
 
 Pas de chaussures de ville dans la crèche pour adultes et enfants, y compris le soir en réunion et le week-end
 
-Pas de téléphone portable dans les pièces de vie des enfants : ils doivent rester dans le hall.
+Pas de téléphone portable dans les pièces de vie des enfants: ils doivent rester dans le hall.
 
 ## Annexe III. Comment s’investir dans le fonctionnement de la crèche ?
 
@@ -703,7 +703,7 @@ Avec l’administrateur, la commission planning est censée veiller à ce que to
 
 ### Accueil des nouvelles familles
 
-Deux familles se partagent les tâches de cette commission. Organise les réunions d’information avec la directrice : présentation de la crèche et de l’association.
+Deux familles se partagent les tâches de cette commission. Organise les réunions d’information avec la direction: présentation de la crèche et de l’association.
 
 Rencontre individuelle des familles postulantes et transmission du dossier d’inscription.
 
@@ -711,9 +711,9 @@ Organisation des journées portes ouvertes en lien avec l’association.
 
 Etablissement et suivi de la liste d’attente.
 
-Collaboration parent-équipe : les demandes et situations atypiques seront étudiées conjointement, ainsi que les dates d’adaptation, le planning de la rentrée, les demandes de changement de forfait en cours d’année (temps partiel, temps plein).
+Collaboration parent-équipe: les demandes et situations atypiques seront étudiées conjointement, ainsi que les dates d’adaptation, le planning de la rentrée, les demandes de changement de forfait en cours d’année (temps partiel, temps plein).
 
-Parrainage à l’arrivée : organisation des premières permanences en lien avec une ancienne famille. Disponibilité pour échanger avec les nouvelles familles, répondre à leurs questions.
+Parrainage à l’arrivée: organisation des premières permanences en lien avec une ancienne famille. Disponibilité pour échanger avec les nouvelles familles, répondre à leurs questions.
 
 ### Pédagogie, fêtes et sorties
 
@@ -721,9 +721,9 @@ Deux familles animent la commission pédagogie. En collaboration avec l’équip
 
 Sont garants avec l’équipe éducative du respect du projet pédagogique de la crèche.
 
-La commission assiste l’équipe éducative dans la mise en place des décisions et des évolutions du projet pédagogique. Sur ce point, les parents de la commission peuvent être consultés, mais ne sont pas décisionnaires : la prise de décision revient à l’équipe professionnelle pour ce qui concerne l’élaboration et la mise en œuvre de la pédagogie, en raison de ses compétences. Exemple : aménagement de l’espace, règles de vie dans la crèche, déroulement des adaptations, mise en place des activités, etc.
+La commission assiste l’équipe éducative dans la mise en place des décisions et des évolutions du projet pédagogique. Sur ce point, les parents de la commission peuvent être consultés, mais ne sont pas décisionnaires: la prise de décision revient à l’équipe professionnelle pour ce qui concerne l’élaboration et la mise en œuvre de la pédagogie, en raison de ses compétences. Exemple: aménagement de l’espace, règles de vie dans la crèche, déroulement des adaptations, mise en place des activités, etc.
 
-Collaboration parent-équipe : la mise en place d’activités ou de sortie par les parents est encouragée : elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine.
+Collaboration parent-équipe: la mise en place d’activités ou de sortie par les parents est encouragée: elle nécessite au préalable une proposition à l’équipe et une réflexion sur le caractère adapté à l’âge des enfants, aux besoins des enfants dans la journée et à leur évolution dans la semaine.
 
 Proposition et organisation des sorties (bibliothèque, marché, ludothèque).
 
@@ -731,11 +731,11 @@ Préparation des fêtes, journées à thèmes et autres idées.
 
 ### Alimentation et entretien
 
-Etablissement des menus, inventaire et gestion des stocks. Vérification des dates de péremption et de la mise en œuvre des règles sanitaires. Relation avec le professionnel en cuisine : suivi des menus, conseils, soutien, bientraitance.
+Etablissement des menus, inventaire et gestion des stocks. Vérification des dates de péremption et de la mise en œuvre des règles sanitaires. Relation avec le professionnel en cuisine: suivi des menus, conseils, soutien, bientraitance.
 
-Collaboration parent-équipe : les propositions de nouveaux goûts, d’aliments nouveaux seront étudiées conjointement, en raison des règles diététiques et de la diversification alimentaire chez le petit enfant. En fonction de l’évolution des besoins de enfants en cours d’année, les menus pourront être modifiés.
+Collaboration parent-équipe: les propositions de nouveaux goûts, d’aliments nouveaux seront étudiées conjointement, en raison des règles diététiques et de la diversification alimentaire chez le petit enfant. En fonction de l’évolution des besoins de enfants en cours d’année, les menus pourront être modifiés.
 
-Courses d’alimentation : choix des fournisseurs, organisation des courses, suivi du budget en lien avec le trésorier. Achat des produits d’entretien.
+Courses d’alimentation: choix des fournisseurs, organisation des courses, suivi du budget en lien avec le trésorier. Achat des produits d’entretien.
 
 L’achat des couches et des produits de pharmacie est laissé à l’équipe professionnelle.
 
