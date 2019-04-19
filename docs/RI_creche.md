@@ -81,13 +81,15 @@ Les parents de la crèche Capucine sont adhérents de l’association Capucine e
 
 La capacité d’accueil est de 18 places par jour du lundi au vendredi avec les modes d’accueil suivants :
 
-* des places en CRÈCHE destinées aux enfants de 3 mois à 4 ans, avec réservation par contrat de 5 journées par semaine ;
+* des places à temps plein destinées aux enfants de 3 mois à 4 ans, avec réservation par contrat de 5 journées par semaine;
 
-* des places à TEMPS PARTIEL destinées aux enfants de 3 mois à 4 ans avec réservation par contrat de 2 à 4 jours par semaine. Les journées sont fixes dans la semaine pour permettre aux enfants de se repérer dans le temps et par rapport au groupe (toujours le même sur les mêmes jours) ;
+* des places à temps partiel destinées aux enfants de 3 mois à 4 ans avec réservation par contrat de 2 à 4 jours par semaine. Les journées sont fixes dans la semaine pour permettre aux enfants de se repérer dans le temps et par rapport au groupe (toujours le même sur les mêmes jours);
 
-* des places le MERCREDI et un accueil OCCASIONNEL pour des enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants ;
+* des places à temps partiel de 1 jour par semaine destinées aux enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants, par exemple;
 
-* un accueil d'URGENCE peut être proposé en fonction des places disponibles.
+* des places occasionnelles destinées aux enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants, par exemple;
+
+* un accueil d'urgence peut être proposé en fonction des places disponibles.
 
 ### 2. Horaires d’accueil et fermeture annuelle
 
@@ -113,11 +115,11 @@ Dans le cas où personne ne se présente à la fermeture de la crèche pour repr
 
 ### 3. Repas et goûters
 
-Les repas sont confectionnés sur place par une cuisinière avec des produits frais et de saison. Les goûters sont fournis par la structure et installés par le parent de permanence selon les menus établis selon les différentes tranches d’âge. Les repas seront pris selon le rythme des enfants.
+Les repas sont confectionnés sur place par un ou une cuisinière avec des produits frais et de saison. Les goûters sont fournis par la structure et installés par le parent de permanence selon les menus établis selon les différentes tranches d’âge. Les repas seront pris selon le rythme des enfants.
 
 #### Article 4
 
-Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation avec la directrice, la responsable technique ou le médecin de la crèche.
+Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation avec la direction, le responsable technique ou le médecin de la crèche.
 
 #### Article 5
 
@@ -173,7 +175,7 @@ Les professionnels en formation ne peuvent ni effectuer de sorties non accompagn
 
 ### 1. Modalités d’inscription
 
-Les inscriptions se font avec la directrice, assistée de la commission "planning", de la commission "accueil nouvelles familles" et du reste de l’équipe, qui détermine avec la famille le planning de présence hebdomadaire de l’enfant, la date du début de l’adaptation, en fonction des places vacantes. Lors de l’inscription, un dossier dans lequel figurera le planning des journées réservées pour l’enfant est rempli.
+Les inscriptions se font avec la direction, assistée de la commission "planning", de la commission "accueil nouvelles familles" et du reste de l’équipe, qui détermine avec la famille le planning de présence hebdomadaire de l’enfant, la date du début de l’adaptation, en fonction des places vacantes. Lors de l’inscription, un dossier dans lequel figurera le planning des journées réservées pour l’enfant est rempli.
 
 Plusieurs types de contrats sont proposés au sein de la structure :
 
@@ -560,7 +562,7 @@ Les parents chargés de la communication travaillent en lien étroit avec le com
 
 #### Article 56. Préparation des réunions pédagogiques et de fonctionnement
 
-Une fois par mois, le Comité de pilotage et la commission Planning se réunissent avec la directrice de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations, les questions et les points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
+Une fois par mois, le Comité de pilotage et la commission Planning se réunissent avec la direction de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations, les questions et les points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
 
 De même la Commission pédagogique se réunit avec l’équipe professionnelle pour préparer la réunion pédagogique: repérage des thèmes en rapport avec l’actualité, établissement d’un réservoir thématique, recherche d’informations liées à ces thèmes.
 
@@ -683,9 +685,9 @@ Le comité de pilotage est composé de
 * Trésorier de la crèche (élu)
 * Commission web (élu)
 
-Le comité de pilotage travaille avec la commission planning, qui est invitée aux réunions (deux fois par trimestre) du comité de pilotage avec la directrice et/ou la responsable technique.
+Le comité de pilotage travaille avec la commission planning, qui est invitée aux réunions (deux fois par trimestre) du comité de pilotage avec la direction et/ou le responsable technique.
 
-Le comité de pilotage prépare les réunions de fonctionnement de crèche (ordre du jour, animation, compte rendu) et suit les orientations du Conseil d’Administration de l’association.
+Le comité de pilotage prépare les réunions de fonctionnement de crèche (ordre du jour, animation, compte rendu) et suit les orientations du Conseil d’administration de l’Association.
 
 Administrateur de la Crèche. Siège au CA de l’association, gère les relations internes à la crèche, anime les réunions de fonctionnement de la crèche participe aux réunions de l’Acepp(rif). L’administrateur œuvre pour un fonctionnement harmonieux de la crèche; il veille à ce que toutes les commissions de la crèche soient pourvues.
 
