@@ -1,15 +1,14 @@
 ---
-title:  Règlement intérieur de l'association
+title:  Règlement intérieur de l'Association
 author: Capucine et papillons, jardin d'enfance
 date:   16/4/2019
 ---
 
-# Règlement intérieur de l'association
+# Règlement intérieur de l'Association
 
 * Intégrant les modifications du 18 juin 2008
 * Intégrant les modifications du 3 février 2010
-* Intégrant les modifications du 28 mai 2011
-* Intégrant les modifications du 26 juin 2011
+* Intégrant les modifications du 28 mai, 26 juin 2011
 * Intégrant les modifications du 16 avril 2019
 
 L’association **Capucine et papillons, jardin d’enfance** gère et administre différents services, dont
@@ -19,17 +18,17 @@ L’association **Capucine et papillons, jardin d’enfance** gère et administr
 
 #### Article 1. Instances
 
-Les instances de l'Association Capucine et papillons, jardin d’enfance sont les suivantes et elles ont pour missions :
+Les instances de l'association Capucine et papillons, jardin d’enfance sont les suivantes et elles ont pour missions :
 
 **Assemblée générale** : définition et orientations générales de l’Association.
 
-**Conseil d’administration** : suivi des orientations de l’Assemblée Générale. Organe principal de fonctionnement. Garant des missions pédagogiques et de la gestion de l’Association.  Tous les membres du Conseil d'administration sont tenus à la confidentialité
+**Conseil d’administration** : suivi des orientations de l’Assemblée générale. Organe principal de fonctionnement. Garant des missions pédagogiques et de la gestion de l’Association.  Tous les membres du Conseil d'administration sont tenus à la confidentialité
 
 **Bureau** (Président, Secrétaire, Trésorier) : application des orientations du Conseil d’administration, suivi technique des salariés (missions, rémunération, nomination du personnel de l'Association, fonction employeur, entretiens annuels).  La mission du Trésorier crèche est d’assurer, par délégation du Conseil d'administration, la tenue de la comptabilité régulière de toutes les opérations tant en recettes qu’en dépenses de la crèche.
 
 La crèche Capucine dispose d'une Direction et d'un Comité de pilotage.
 
-**Direction** : les missions du poste de Directeur sont d’assurer, par délégation du Conseil d'administration et de son président, la responsabilité générale de la structure, en particulier, la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (crèche et jardin des parents). Ces missions sont décrites dans sa fiche de poste. Le Directeur est mandaté par le Conseil d'administration pour adresser les demandes de subventions à la Ville de Paris et à la Caisse d'allocations familiales, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
+**Direction** : les missions du poste de Directeur sont d’assurer, par délégation du Conseil d'administration et de son président, la responsabilité générale de la structure, en particulier, la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (Crèche et Jardin des parents). Ces missions sont décrites dans sa fiche de poste. Le Directeur est mandaté par le Conseil d'administration pour adresser les demandes de subventions à la Ville de Paris et à la Caisse d'allocations familiales, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
 
 **Comité de pilotage** : Composé d'un Administrateur, d'un Secrétaire, d'un Trésorier et d'une Commission web, et épaulé par la Commission planning, le Comité de pilotage veille au bon fonctionnement de la crèche Capucine.  (Cf. le Règlement intérieur de la crèche.)
 
@@ -57,7 +56,7 @@ Le Président, secondé par les Membres administrateurs de chacun des services, 
 
 Le Secrétaire, est chargé de la correspondance, notamment l'envoi des diverses convocations. Il rédige et diffuse les comptes rendus de réunions, les procès-verbaux du Conseil d'administration et des Assemblées générales.
 
-Le Trésorier, tient les comptes de l'Association. Il assure la gestion financière de l’association et les relations avec le comptable. Il effectue tous paiements et perçoit toutes recettes en collaboration avec le Président. Il tient une comptabilité régulière de toutes les opérations tant en recettes qu'en dépenses et en rend compte à l'Assemblée générale ordinaire annuelle.
+Le Trésorier, tient les comptes de l'Association. Il assure la gestion financière de l’Association et les relations avec le comptable. Il effectue tous paiements et perçoit toutes recettes en collaboration avec le Président. Il tient une comptabilité régulière de toutes les opérations tant en recettes qu'en dépenses et en rend compte à l'Assemblée générale ordinaire annuelle.
 
 #### Article 4. Absence du Bureau
 
