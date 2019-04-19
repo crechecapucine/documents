@@ -125,7 +125,7 @@ La crèche Capucine élit un **Comité de pilotage** parmi les usagers-adhérent
 
 #### Article 12. Bureau
 
-Le Conseil d’administration de l’Association élit parmi ses membres ou parmi les membres des Comités de pilotage, dans les conditions qui sont fixées au Règlement intérieur de l’Association, un bureau composé au moins de :
+Le Conseil d’administration de l’Association élit parmi ses membres ou parmi les membres des Comités de pilotage, dans les conditions qui sont fixées au Règlement intérieur de l’Association, un bureau composé au moins de:
 
 * un **Président**,
 
@@ -141,7 +141,7 @@ Le Président représente l’Association dans tous les actes de la vie civile. 
 
 #### Article 13. Membres jardiniers
 
-Les **Membres jardiniers** sont des membres parmi les anciens élus des Comités de pilotage (crèche Capucine ou Jardin des parents) ou du Bureau admis à siéger au sein du Conseil d'administration dans les conditions qui sont fixées au Règlement intérieur de l’Association.
+Les **Membres jardiniers** sont des membres admis à siéger au sein du Conseil d'administration dans les conditions qui sont fixées au Règlement intérieur de l’Association.
 
 #### Article 14. Fonctionnement du Conseil d'administration
 

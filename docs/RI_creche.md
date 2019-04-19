@@ -81,13 +81,15 @@ Les parents de la crèche Capucine sont adhérents de l’association Capucine e
 
 La capacité d’accueil est de 18 places par jour du lundi au vendredi avec les modes d’accueil suivants :
 
-* des places en CRÈCHE destinées aux enfants de 3 mois à 4 ans, avec réservation par contrat de 5 journées par semaine ;
+* des places à temps plein destinées aux enfants de 3 mois à 4 ans, avec réservation par contrat de 5 journées par semaine;
 
-* des places à TEMPS PARTIEL destinées aux enfants de 3 mois à 4 ans avec réservation par contrat de 2 à 4 jours par semaine. Les journées sont fixes dans la semaine pour permettre aux enfants de se repérer dans le temps et par rapport au groupe (toujours le même sur les mêmes jours) ;
+* des places à temps partiel destinées aux enfants de 3 mois à 4 ans avec réservation par contrat de 2 à 4 jours par semaine. Les journées sont fixes dans la semaine pour permettre aux enfants de se repérer dans le temps et par rapport au groupe (toujours le même sur les mêmes jours);
 
-* des places le MERCREDI et un accueil OCCASIONNEL pour des enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants ;
+* des places à temps partiel de 1 jour par semaine destinées aux enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants, par exemple;
 
-* un accueil d'URGENCE peut être proposé en fonction des places disponibles.
+* des places occasionnelles destinées aux enfants ayant fréquenté la crèche qui sont inscrits en première année de maternelle ou en jardin d’enfants, par exemple;
+
+* un accueil d'urgence peut être proposé en fonction des places disponibles.
 
 ### 2. Horaires d’accueil et fermeture annuelle
 
@@ -105,7 +107,7 @@ La crèche est fermée 4 semaines l’été, une semaine entre Noël et le jour 
 
 Les autres périodes de fermetures (journées pédagogiques, ponts du mois de mai, par exemple) sont fixées chaque année en réunion de fonctionnement au choix des parents. Elles restent dues financièrement à l’association sauf dans le cadre de la sixième semaine non facturée défini en réunion de fonctionnement en début d’année scolaire.
 
-Deux journées pédagogiques annuelles, consacrées au travail de l’équipe professionnelle sans accueil des enfants est prévue chaque année. Leur date est communiquée en réunion de fonctionnement en début d’année scolaire.
+Deux journées pédagogiques annuelles, consacrées au travail de l’équipe professionnelle sans accueil des enfants sont prévues chaque année. Leur date est communiquée en réunion de fonctionnement en début d’année scolaire.
 
 #### Article 3
 
@@ -113,15 +115,15 @@ Dans le cas où personne ne se présente à la fermeture de la crèche pour repr
 
 ### 3. Repas et goûters
 
-Les repas sont confectionnés sur place par une cuisinière avec des produits frais et de saison. Les goûters sont fournis par la structure et installés par le parent de permanence selon les menus établis selon les différentes tranches d’âge. Les repas seront pris selon le rythme des enfants.
+Les repas sont confectionnés sur place par un ou une cuisinière avec des produits frais et de saison. Les goûters sont fournis par la structure et installés par le parent de permanence selon les menus établis selon les différentes tranches d’âge. Les repas seront pris selon le rythme des enfants.
 
 #### Article 4
 
-Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation avec la directrice, la responsable technique ou le médecin de la crèche.
+Un enfant ne peut pas apporter d’aliments extérieurs à la crèche. Dans le cadre d’un goûter de fête (par exemple, pour un anniversaire ou le départ d’une famille), les aliments apportés par des parents devront faire l’objet d’une validation avec la direction, le responsable technique ou le médecin de la crèche.
 
 #### Article 5
 
-Le lait infantile (1er ou 2e âge) sera fourni par la crèche. La poursuite de l’allaitement maternel d’un nourrisson est possible avec des biberons de lait maternel recueilli par la mère si elle en a le souhaite.
+Le lait infantile (1er ou 2e âge) sera fourni par la crèche. La poursuite de l’allaitement maternel d’un nourrisson est possible avec des biberons de lait maternel recueilli par la mère si elle le souhaite.
 
 ## II. Accueil des familles par l’équipe professionnelle
 
@@ -129,7 +131,7 @@ Le lait infantile (1er ou 2e âge) sera fourni par la crèche. La poursuite de l
 
 A son arrivée à la crèche, chaque famille est accueillie par une professionnelle référente de l’enfant. Elle est également parrainée à son arrivée par une famille chevronnée de la crèche.
 
-L’objectif est de construire un cadre d’accueil pour les enfants et leur famille, favorisant leur bien-être. Le lien avec les parents autour de l’enfant est au cœur du projet, ce qui permet une continuité avec le milieu familial, et l’émergence des souhaits de participation des parents.
+L’objectif est de construire un cadre d’accueil pour les enfants et leur famille, favorisant leur bien-être. Le lien avec les parents autour de l’enfant est au cœur du projet, ce qui permet une continuité avec le milieu familial et l’émergence des souhaits de participation des parents.
 
 L’ensemble de l’équipe professionnelle élabore et met en œuvre le Projet pédagogique de la crèche et en assure la cohérence. L’équipe professionnelle dans son ensemble est garante, avec les parents, du respect du règlement intérieur du projet pédagogique et de ses orientations.
 
@@ -173,7 +175,7 @@ Les professionnels en formation ne peuvent ni effectuer de sorties non accompagn
 
 ### 1. Modalités d’inscription
 
-Les inscriptions se font avec la directrice, assistée de la commission "planning", de la commission "accueil nouvelles familles" et du reste de l’équipe, qui détermine avec la famille le planning de présence hebdomadaire de l’enfant, la date du début de l’adaptation, en fonction des places vacantes. Lors de l’inscription, un dossier dans lequel figurera le planning des journées réservées pour l’enfant est rempli.
+Les inscriptions se font avec la direction, assistée de la commission "planning", de la commission "accueil nouvelles familles" et du reste de l’équipe, qui détermine avec la famille le planning de présence hebdomadaire de l’enfant, la date du début de l’adaptation, en fonction des places vacantes. Lors de l’inscription, un dossier dans lequel figurera le planning des journées réservées pour l’enfant est rempli.
 
 Plusieurs types de contrats sont proposés au sein de la structure :
 
@@ -331,7 +333,7 @@ Les enfants sont soumis aux obligations prévues par les textes réglementaires 
 
 #### Article 31
 
-Le médecin de la crèche veille à l’application des mesures préventives d’hygiène générale et les mesures à prendre en cas de maladie contagieuse, d’épidémie. Une visite médicale est proposée à l’admission de l’enfant. Cette visite, avec les parents, est obligatoire pour les enfants âgés de moins de 4 mois.
+Le médecin de la crèche veille à l’application des mesures préventives d’hygiène générale et des mesures à prendre en cas de maladie contagieuse, d’épidémie. Une visite médicale est proposée à l’admission de l’enfant. Cette visite, avec les parents, est obligatoire pour les enfants âgés de moins de 4 mois.
 
 #### Article 32
 
@@ -496,7 +498,7 @@ Une permanence supplémentaire, appelée renfort, peut être demandée ponctuell
 
 #### Article 49. Horaires des permanences
 
-Les horaires des permanences sont les suivants :
+Les horaires des permanences sont les suivants:
 
 * de 8 h 30 à 12 h 30 pour la permanence du matin,
 * de 13 h à 17 h pour la première permanence de l'après-midi,
@@ -504,9 +506,9 @@ Les horaires des permanences sont les suivants :
 
 L'après-midi, les deux familles de permanence prennent alternativement leur permanence à 13 h et 15 h sauf si un arrangement commun est trouvé. Tout arrangement doit apparaître dans le planning et être communiqué à la commission Planning.
 
-Les parents de permanence l’après-midi n’arrivent pas avec leur enfant : celui-ci est accompagné à la crèche le matin.
+Les parents de permanence l’après-midi n’arrivent pas avec leur enfant: celui-ci est accompagné à la crèche le matin.
 
-Les horaires d’arrivée et de départ seront respectés pour le bon fonctionnement de la structure. Un parent ne peut quitter temporairement la permanence (par exemple pour une, sortie d’école) sans être remplacé par une personne habituelle au fonctionnement de la crèche.
+Les horaires d’arrivée et de départ seront respectés pour le bon fonctionnement de la structure. Un parent ne peut quitter temporairement la permanence (par exemple pour une sortie d’école) sans être remplacé par une personne habituelle au fonctionnement de la crèche.
 
 #### Article 50
 
@@ -552,7 +554,7 @@ L’accueil des enfants (et donc la participation financière des familles) ne f
 
 Une réunion mensuelle réunissant parents et professionnels a lieu à la crèche à 20 h pour aborder un thème pédagogique ou de fonctionnement, permettant d’échanger sur l’actualité de la crèche. Le planning des réunions est affiché dans l’entrée de la crèche (en général le premier jeudi de chaque mois).
 
-La présence des familles est requise à l'occasion de CHAQUE réunion de fonctionnement et de CHAQUE réunion pédagogique. Il appartient à la famille de déterminer lequel des parents est en mesure d'y assister. Les absences sont tolérées à titre exceptionnel, doivent être préalablement communiquées au Comité de pilotage de la crèche. En cas d’absences non communiquées, d'absences répétées, ce caractère systématique pourra entraîner l’exclusion de la famille de la structure (crèche et association) sur décision du Conseil d’administration. Deux absences d’une famille impliquent que celle-ci devra du temps à la crèche, à définir avec la directrice et la commission planning. Lorsqu'elle est impliquée dans les organes de la crèche, une famille dont l'enfant est accueilli 1 jour/semaine ou occasionnellement peut obtenir une dérogation avec l'accord du Conseil d'administration.
+La présence des familles est requise à l'occasion de CHAQUE réunion de fonctionnement et de CHAQUE réunion pédagogique. Il appartient à la famille de déterminer lequel des parents est en mesure d'y assister. Les absences sont tolérées à titre exceptionnel, doivent être préalablement communiquées au Comité de pilotage de la crèche. En cas d’absences non communiquées, d'absences répétées, ce caractère systématique pourra entraîner l’exclusion de la famille de la structure (crèche et association) sur décision du Conseil d’administration. Deux absences d’une famille impliquent que celle-ci devra du temps à la crèche, à définir avec la direction et la commission planning. Lorsqu'elle est impliquée dans les organes de la crèche, une famille dont l'enfant est accueilli 1 jour/semaine ou occasionnellement peut obtenir une dérogation avec l'accord du Conseil d'administration.
 
 ## VII. Communication dans la crèche
 
@@ -560,9 +562,9 @@ Les parents chargés de la communication travaillent en lien étroit avec le com
 
 #### Article 56. Préparation des réunions pédagogiques et de fonctionnement
 
-Une fois par mois, le Comité de pilotage et la commission Planning se réunissent avec la directrice de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations, les questions et les points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
+Une fois par mois, le Comité de pilotage et la commission Planning se réunissent avec la direction de la crèche et la responsable technique pour régler les questions urgentes et préparer l’ordre du jour de la réunion de fonctionnement. A cette occasion, les parents de la crèche sont invités à communiquer les informations, les questions et les points d’actualités qu’ils souhaitent inscrire à l’ordre du jour. Les représentants d’une commission peuvent participer si besoin à cette réunion préparatoire.
 
-De même la Commission pédagogique se réunit avec l’équipe professionnelle pour préparer la réunion pédagogique : repérage des thèmes en rapport avec l’actualité, établissement d’un réservoir thématique, recherche d’informations liées à ces thèmes.
+De même la Commission pédagogique se réunit avec l’équipe professionnelle pour préparer la réunion pédagogique: repérage des thèmes en rapport avec l’actualité, établissement d’un réservoir thématique, recherche d’informations liées à ces thèmes.
 
 Chaque commission prépare un résumé de son actualité à communiquer lors de la réunion mensuelle à l’occasion du "tour des commissions".
 
@@ -572,7 +574,7 @@ L’ordre du jour des réunions est préparé et communiqué aux familles (par l
 
 Chaque famille est responsable de sa permanence. En cas d’impossibilité (enfant ou adulte malade, vacances), c’est à elle de rechercher un parent remplaçant. La recherche peut se faire par email si le temps le permet sinon par téléphone.
 
-Attention — Quel que soit le moyen de communication utilisé, il faut garder à l’esprit quelques précautions : certaines les familles pourraient ne pas avoir accès à l’information.
+Attention — Quel que soit le moyen de communication utilisé, il faut garder à l’esprit quelques précautions: certaines familles pourraient ne pas avoir accès à l’information.
 
 Le mail est un moyen rapide et pratique de communication des informations. (Certaines familles peuvent ne pas avoir d’email.)
 
@@ -594,7 +596,7 @@ Le présent règlement intérieur ne peut être modifié qu’après accord du C
 
 Les parents sont activement impliqués dans le déroulement de la journée de crèche en effectuant une permanence régulière. Les premières permanences ne donnent pas la priorité aux tâches ménagères mais le parent est avant tout présent pour son enfant. Elles ont lieu peu de temps après la période d’adaptation et les premières séparations. Il faut du temps à l’enfant pour comprendre que cette demi-journée-là, le parent reste à la crèche.
 
-Lors de la première permanence, les nouveaux parents sont parrainées par un parent chevronné, qui connaît le fonctionnement de la crèche et décharge le nouveau parent des tâches ménagères. Ce dernier consacre sa permanence à son enfant et petit à petit, il prendra le relais. Au cours des premières permanences, les professionnels guident aussi le nouveau parent dans la gestion de l’intendance, des règles de vie à la crèche car il n’est pas toujours facile de gérer son enfant et les tâches quotidiennes au début.
+Lors de la première permanence, les nouveaux parents sont parrainés par un parent chevronné, qui connaît le fonctionnement de la crèche et décharge le nouveau parent des tâches ménagères. Ce dernier consacre sa permanence à son enfant et petit à petit, il prendra le relais. Au cours des premières permanences, les professionnels guident aussi le nouveau parent dans la gestion de l’intendance, des règles de vie à la crèche car il n’est pas toujours facile de gérer son enfant et les tâches quotidiennes au début.
 
 Le déroulement d’une permanence est décrit dans plus de détails dans un cahier de parrainage et seuls les éléments les plus importants sont repris dans cette annexe.
 
@@ -626,7 +628,7 @@ Il importe d'être ponctuel à l'ouverture puisque le parent de permanence ouvre
 
 ### 3. Permanence d’après-midi
 
-Les parents de permanence devront adapter l'organisation selon que le planning indique les draps doivent être lavés (cf. cahier de parrainage).
+Les parents de permanence devront adapter l'organisation selon que le planning indique que les draps doivent être lavés (cf. cahier de parrainage).
 
 13 h. Terminer le ménage ou rester près des enfants selon les besoins
 
@@ -642,9 +644,9 @@ Les parents de permanence devront adapter l'organisation selon que le planning i
 
 ## Annexe II. Règles de sécurité pour les adultes et les enfants
 
-Lieux interdits aux enfants, même dans les bras du parent : la cuisine ou le local fonctionnel. Le bureau est interdit en l'absence d'un professionnel. N’hésitez pas à demander un relais quand vous êtes dans la cuisine ou dans le local technique pour s’occuper des machines, et réclamé par votre enfant (surtout lors des premières permanences).
+Lieux interdits aux enfants, même dans les bras du parent : la cuisine ou le local fonctionnel. Le bureau est interdit en l'absence d'un professionnel. N’hésitez pas à demander un relais quand vous êtes dans la cuisine ou dans le local technique pour vous occuper des machines et réclamé par votre enfant (surtout lors des premières permanences).
 
-La pièce du jeu d’eau accueille 4 enfants au maximum avec un adulte. Il est indispensable d’être vigilant à la sécurité des enfants. L’adulte ne laisse jamais les enfants seuls dans cette pièce. En dehors du jeu d’eau les tapis orange seront installés dans la pataugeoire pour éviter tout risque de chutes.
+Il est indispensable d’être vigilant à la sécurité des enfants dans la seule du jeu d'eau. L’adulte ne laisse jamais les enfants seuls dans cette pièce. En dehors du jeu d’eau les tapis orange seront installés dans la pataugeoire pour éviter tout risque de chutes.
 
 La structure motrice : pas de jouets qui encombrent la structure motrice lorsqu’ils représentent un danger pour les enfants apprenant à marcher. En cas de doute, l’équipe professionnelle peut être consultée.
 
@@ -662,7 +664,7 @@ Les parents se voient confier une commission qui permet d'assurer le fonctionnem
 
 Le cahier de parrainage et les fiches de poste décrivent de façon plus détaillée les tâches et les responsabilités qui incombent aux différentes commissions.
 
-Certaines commissions peuvent être portées par les deux parents tandis que d’autres sont nominales. Certaines commissions supposent de respecter la confidentialité quant au contenu des réunions.
+Certaines commissions peuvent être portées par les deux parents tandis que d’autres sont nominatives. Certaines commissions supposent de respecter la confidentialité quant au contenu des réunions.
 
 ### Bureau de l’association
 
@@ -674,7 +676,7 @@ Le jardin des parents est le service de l’association qui crée et pérennise 
 
 ### Comité de pilotage
 
-Instance de proposition, de régulation, de médiation, de représentation et de mise en œuvre des décisions de la réunion de fonction et du CA de l’association.
+Instance de proposition, de régulation, de médiation, de représentation et de mise en œuvre des décisions de la réunion de fonctionnement et du Conseil d'administration de l’association.
 
 Le comité de pilotage est composé de
 
@@ -683,11 +685,11 @@ Le comité de pilotage est composé de
 * Trésorier de la crèche (élu)
 * Commission web (élu)
 
-Le comité de pilotage travaille avec la commission planning, qui est invitée aux réunions (deux fois par trimestre) du comité de pilotage avec la directrice et/ou la responsable technique.
+Le comité de pilotage travaille avec la commission planning, qui est invitée aux réunions (deux fois par trimestre) du comité de pilotage avec la direction et/ou le responsable technique.
 
-Le comité de pilotage prépare les réunions de fonctionnement de crèche (ordre du jour, animation, compte rendu) et suit les orientations du Conseil d’Administration de l’association.
+Le comité de pilotage prépare les réunions de fonctionnement de crèche (ordre du jour, animation, compte rendu) et suit les orientations du Conseil d’administration de l’Association.
 
-Administrateur de la Crèche. Siège au CA de l’association, gère les relations internes à la crèche, anime les réunions de fonctionnement de la crèche participe aux réunions de l’Acepp(rif). L’administrateur œuvre pour un fonctionnement harmonieux de la crèche ; il veille à ce que toutes les commissions de la crèche soient pourvues.
+Administrateur de la Crèche. Siège au CA de l’association, gère les relations internes à la crèche, anime les réunions de fonctionnement de la crèche participe aux réunions de l’Acepp(rif). L’administrateur œuvre pour un fonctionnement harmonieux de la crèche; il veille à ce que toutes les commissions de la crèche soient pourvues.
 
 Secrétaire de la crèche. Il est chargé de la correspondance, notamment la diffusion des informations auprès des parents dans la crèche. Il rédige et diffuse les comptes rendus de réunions.
 
@@ -697,7 +699,7 @@ Commission web. Gère les outils et les ressources informatiques de la crèche.
 
 ### Commission planning et sorties
 
-Les fonctions de cette commission sont remplies par deux familles. Cette commission n’est pas nominale mais la participation de cette commission aux réunions du comité de pilotage suppose qu’un parent soit nommément désigné pour ces réunions. Il est souhaitable que les deux parents de la commission soient présents lors de ces réunions.
+Les fonctions de cette commission sont remplies par deux familles. Cette commission n’est pas nominative mais la participation de cette commission aux réunions du comité de pilotage suppose qu’un parent soit nommément désigné pour ces réunions. Il est souhaitable que les deux parents de la commission soient présents lors de ces réunions.
 
 La commission planning est en charge de la communication des informations concernant le planning des permanences (temps partiels, temps pleins, mercredis), des renforts (affichage, remplacement) et des sorties.
 
