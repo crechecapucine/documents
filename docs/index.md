@@ -8,7 +8,7 @@ title: Association Capucine et papillons, jardin d'enfance
 
 # Capucine et papillons, jardin d'enfance
 
-<img src="papillons.png" alt="logo" width="30%" />
+<img src="papillons.png" alt="logo" width="150px" />
 
 **Calendrier et prochaines étapes** Les règlements intérieurs ont été
 votés en Conseil d'administration, le 16 avril 2019, et doivent être
