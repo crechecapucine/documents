@@ -26,7 +26,14 @@ jour par les soins du Bureau et du Conseil d'administration, doivent
   par l’Assemblée générale" (section IX "Modifications du règlement
   intérieur" du règlement intérieur de la crèche)
 
+Le dépôt GitHub devra évoluer afin que les anciens documents
+résident dans la partie "archives". Par ailleurs, une documentation
+devra voir le jour pour décrire comment modifier les statuts et le
+règlement intérieur à l'avenir.
+
 ## Documents actuels
+
+* Un logo au format [PNG](papillons.png) et [Illustrator](papillons.ai)
 
 Les règlements intérieurs votés en Conseil d'administration, le 16
 avril 2019 et en attente de ratification par l'Assemblée générale du
