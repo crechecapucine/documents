@@ -1,3 +1,4 @@
+
 ---
 title: Association Capucine et papillons, jardin d'enfance
 ---
@@ -6,6 +7,8 @@ title: Association Capucine et papillons, jardin d'enfance
 * [Page Facebook](https://www.facebook.com/capucineetpapillons/)
 
 # Capucine et papillons, jardin d'enfance
+
+![](papillons.png)
 
 **Calendrier et prochaines étapes** Les règlements intérieurs ont été
 votés en Conseil d'administration, le 16 avril 2019, et doivent être
@@ -50,3 +53,4 @@ l'évolution des pratiques au sein de la crèche Capucine.
 * Les [statuts et règlement intérieur](current/statuts_RI_association_2011-06-26.pdf) de l'association (PDF, version du 26 juin 2011)
 * Le [règlement intérieur de la crèche](current/RI_creche_2017-04-25.pdf)
   (PDF, version du 25 avril 2017)
+  
