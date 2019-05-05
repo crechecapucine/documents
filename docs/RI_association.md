@@ -28,7 +28,7 @@ Les instances de l'association Capucine et papillons, jardin d’enfance sont le
 
 La crèche Capucine dispose d'une Direction et d'un Comité de pilotage.
 
-**Direction**: les missions du et de la directrice sont d’assurer, par délégation du Conseil d'administration et de son président, la responsabilité générale de la structure, en particulier, la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (Crèche et Jardin des parents). Ces missions sont décrites dans sa fiche de poste. Le ou la directrice est mandaté par le Conseil d'administration pour adresser les demandes de subventions à la Ville de Paris et à la Caisse d'allocations familiales, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
+**Direction**: les missions de la direction sont d’assurer, par délégation du Conseil d'administration et de son président, la responsabilité générale de la structure, en particulier, la gestion administrative, la gestion des ressources humaines et des missions pédagogiques des différents services (Crèche et Jardin des parents). Ces missions sont décrites dans sa fiche de poste. Le ou la directrice est mandatée par le Conseil d'administration pour adresser les demandes de subventions à la Ville de Paris et à la Caisse d'allocations familiales, ainsi qu’à tout organisme public ou privé qui pourrait subventionner l’Association.
 
 **Comité de pilotage**: Composé d'un Administrateur, d'un Secrétaire, d'un Trésorier et d'une Commission web, et épaulé par la Commission planning, le Comité de pilotage veille au bon fonctionnement de la crèche Capucine.  (Cf. le Règlement intérieur de la crèche.)
 

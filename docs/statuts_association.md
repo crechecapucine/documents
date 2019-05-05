@@ -195,6 +195,6 @@ Il est tenu une comptabilité conforme aux prescriptions légales et réglementa
 
 Les statuts ne peuvent être modifiés, sur proposition du Conseil d'administration, qu’après accord de l’Assemblée générale.
 
-Le Règlement intérieur peut être modifié par le Conseil d’administration. Il sera ratifié par l’Assemblée Générale.
+Le Règlement intérieur peut être modifié par le Conseil d’administration. Il sera ratifié par l’Assemblée générale.
 
 La dissolution de l'Association peut être prononcée par l'Assemblée générale à la majorité des deux tiers des membres présents. L'actif éventuel est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.

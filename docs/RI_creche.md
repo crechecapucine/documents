@@ -149,7 +149,7 @@ Le planning de l’équipe est affiché dans le bureau de la crèche.
 
 #### Article 9. Rôles de l’équipe professionnelle
 
-L'équipe professionnelle assure un travail en équipe afin de mettre en pratique le Projet pédagogique de la crèche et d’en assurer la cohérence. Les professionnels sont garants du projet pédagogique et de ses orientations. Ils sont également garants avec l’ensemble des parents du respect du Règlement Intérieur
+L'équipe professionnelle assure un travail en équipe afin de mettre en pratique le Projet pédagogique de la crèche et d’en assurer la cohérence. Les professionnels sont garants du projet pédagogique et de ses orientations. Ils sont également garants avec l’ensemble des parents du respect du Règlement intérieur
 
 L’enfant et sa famille seront accompagnés dans leurs premières séparations puis au départ de la crèche vers l’école en favorisant la mise en place de passerelles avec l’école maternelle ou le jardin d'enfants.
 
@@ -337,9 +337,9 @@ Tout traitement médicamenteux suivi en dehors de la crèche par l’enfant doit
 
 #### Article 33
 
-Un enfant malade, même de façon bénigne est plus à son aise à la maison qu’en collectivité. Aussi si l’équipe éducative constate que l’enfant a de la fièvre (température supérieure à 38.5) et/ou qu’il présente une affection contagieuse, les parents sont prévenus et appelés à venir chercher l’enfant.
+Un enfant malade, même de façon bénigne est plus à son aise à la maison qu’en collectivité. Aussi si l’équipe éducative constate que l’enfant a de la fièvre (température supérieure à 38,5°C) et/ou qu’il présente une affection contagieuse, les parents sont prévenus et appelés à venir chercher l’enfant.
 
-Si l’enfant a de la fièvre le matin, le professionnel devra être informé des traitements administrés et au delà de 38.5° l’enfant ne sera pas admis à la crèche.
+Si l’enfant a de la fièvre le matin, le professionnel devra être informé des traitements administrés et au-delà de 38.5°C l’enfant ne sera pas admis à la crèche.
 
 #### Article 34
 
@@ -377,11 +377,9 @@ L’Association a souscrit une police d’assurance responsabilité civile et in
 
 Une adaptation en collectivité ne peut être réussie que si les parents se sentent en confiance et accueillis au même titre que leur enfant.
 
-Aussi chaque nouvelle famille est accueillie individuellement par un professionnel EJE référent et par une famille de la crèche qui répondra à toutes les questions concernant le fonctionnement de l’Association et ce que l’on attend des parents. La nouvelle famille devient membre de l’association Capucine et Papillons Jardin d’enfance et à ce titre adhère aux statuts de l’Association et à son projet associatif.
-
 Au sein de la crèche, la collaboration parent-professionnel est basée sur une attitude d’ouverture et d’écoute; elle sera favorisée par un dialogue, une compréhension mutuelle et la valorisation des compétences de chacun.
 
-Les parents d’un enfant admis à la crèche Capucine deviennent "membres actifs adhérents" de l’association loi 1901 Capucine et papillons, jardin d’enfance. Cela implique certaines obligations décrites dans les articles suivants.
+Chaque nouvelle famille est accueillie individuellement par un professionnel EJE référent et par une famille de la crèche qui répondra à toutes les questions concernant le fonctionnement de l’Association et ce que l’on attend des parents. La nouvelle famille devient membre de l’association Capucine et papillons, jardin d’enfance et à ce titre adhère aux statuts de l’Association et à son projet associatif. Cela implique certaines obligations décrites dans les articles suivants.
 
 #### Article 40. Adhésion annuelle à l’association Capucine et papillons, jardin d’enfance
 
