@@ -28,3 +28,13 @@ La commande suivante produit un fichier HTML dans le sous-répertoire "docs":
 ```
 pandoc -s +smart FILE.md -o docs/FILE.html
 ```
+
+La commande suivante produit une version PDF des documents:
+
+```
+for md in *.md; do
+	tex=${md:r}.tex
+	pandoc --template template.tex $md -o $tex
+	lualatex $tex
+done
+```
