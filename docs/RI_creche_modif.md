@@ -1,7 +1,7 @@
 ---
 title:  Règlement intérieur de la crèche Capucine
 author: Capucine et papillons, jardin d'enfance
-date:   16/4/2019
+date:   21/4/2020
 ---
 
 # Règlement intérieur de la crèche Capucine
@@ -17,6 +17,7 @@ date:   16/4/2019
 * Intégrant les modifications du 11 février 2016
 * Intégrant les modifications du 25 avril 2017
 * Intégrant les modifications du 16 avril 2019
+* Intégrant les modifications du 21 avril 2020
 
 ## Table des matières
 
@@ -67,7 +68,7 @@ date:   16/4/2019
 
 ## Présentation
 
-La crèche Capucine est une crèche collective associative à participation parentale. Elle est gérée par l’association loi 1901 Capucine et papillons, jardin d’enfance, fondée en 2002. Elle offre 18 places/jour pour des jeunes enfants de 3 mois à l’entrée à l’école maternelle (4 ans). Elle fait partie des équipements de la petite enfance, subventionnés par la Caisse d’Allocations Familiales et la Ville de Paris.
+La crèche Capucine est une crèche collective associative à participation parentale. Elle est gérée par l’association loi 1901 Capucine et papillons, jardin d’enfance, fondée en 2002. Elle offre 18 places/jour pour des jeunes enfants de deux mois et demi à l’entrée à l’école maternelle (4 ans). Elle fait partie des équipements de la petite enfance, subventionnés par la Caisse d’allocations familiales et la Ville de Paris.
 
 Les parents de la crèche Capucine sont adhérents de l’association Capucine et papillons, jardin d’enfance.
 
@@ -107,7 +108,7 @@ Deux journées pédagogiques annuelles, consacrées au travail de l’équipe pr
 
 #### Article 3
 
-Dans le cas où personne ne se présente à la fermeture de la crèche pour reprendre un enfant, le parent de permanence devra téléphoner au domicile de cet enfant ou de toute autre personne habilitée par les parents à reprendre l'enfant. En cas d'absence de ces derniers et des parents, le parent de permanence prend l'enfant en charge. Il est entendu que cette mesure est exceptionnelle et ne s'applique que dans un cas de force majeure.
+Dans le cas où personne ne se présente à la fermeture de la crèche pour reprendre un enfant, le parent de permanence devra téléphoner au domicile de cet enfant ou de toute autre personne habilitée par les parents à reprendre l'enfant.
 
 ### 3. Repas et goûters
 
@@ -337,9 +338,9 @@ Tout traitement médicamenteux suivi en dehors de la crèche par l’enfant doit
 
 #### Article 33
 
-Un enfant malade, même de façon bénigne est plus à son aise à la maison qu’en collectivité. Aussi si l’équipe éducative constate que l’enfant a de la fièvre (température supérieure à 38,5°C) et/ou qu’il présente une affection contagieuse, les parents sont prévenus et appelés à venir chercher l’enfant.
+Un enfant malade, même de façon bénigne est plus à son aise à la maison qu’en collectivité. Aussi si l’équipe éducative constate que l’enfant a de la fièvre (température supérieure à 38°C) et/ou qu’il présente une affection contagieuse, les parents sont prévenus et appelés à venir chercher l’enfant.
 
-Si l’enfant a de la fièvre le matin, le professionnel devra être informé des traitements administrés et au-delà de 38.5°C l’enfant ne sera pas admis à la crèche.
+Si l’enfant a de la fièvre le matin, le professionnel devra être informé des traitements administrés et au-delà de 38°C l’enfant ne sera pas admis à la crèche.
 
 #### Article 34
 
