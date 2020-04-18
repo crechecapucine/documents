@@ -24,7 +24,6 @@ avril 2019, et ratifiés par l'Assemblée générale du 25 mai 2019.
 * Le [règlement intérieur](RI_creche) de la crèche
  /[PDF](RI_creche.pdf)
 
-
 Les statuts, mis à jour par les soins du Bureau et du Conseil
 d'administration, votés en Assemblée générale le 25 mai 2019.
 
@@ -44,6 +43,18 @@ d'administration, le 21 avril 2020, pour être ratifié au cour de
 l'Assemblée générale.
 
 * Version de travail du [règlement intérieur](RI_creche_modif) / [règlement intérieur](RI_creche_modif.pdf)
+
+Les modifications concernent:
+
+* La date du document est celle de la réunion du Conseil d'administration
+* La date est également ajoutée à la liste des modifications
+* Présentation : Les enfants de deux mois et demi (précédemment trois
+  mois) à quatre ans sont accueillis
+* Article 3 : La question de la prise en charge d'un enfant par les
+  parents de permanence si ses parents sont en retard est retirée.
+* Article 33 : Les températures passent de 38ºC
+
+## Documents pouvant faire l'objet d'un travail ultérieur
 
 Le projet pédagogique pourra faire l'objet d'une réécriture avec
 l'évolution des pratiques au sein de la crèche Capucine.
