@@ -42,7 +42,7 @@ Un règlement intérieur de la crèche doit être voté en Conseil
 d'administration, le 21 avril 2020, pour être ratifié au cour de
 l'Assemblée générale.
 
-* Version de travail du [règlement intérieur](RI_creche_modif) / [règlement intérieur](RI_creche_modif.pdf)
+* Version de travail du [règlement intérieur](RI_creche_modif) / [PDF](RI_creche_modif.pdf)
 
 Les modifications concernent:
 
