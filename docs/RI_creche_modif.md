@@ -530,10 +530,10 @@ Toutefois, si les parents sont dans l’impossibilité momentanée pour raison m
 | Accueil                         | Fréquence des permanences  |
 | ------------------------------- | -------------------------- |
 | Temps plein   5 jours / semaine | 1 permanence  / semaine    |
-| Temps partiel 4 jours / semaine | 4 permanences / 5 semaines |
-| Temps partiel 3 jours / semaine | 3 permanences / 5 semaines |
-| Temps partiel 2 jours / semaine | 2 permanences / 5 semaines |
-| Temps partiel 1 jour  / semaine | 1 permanence  / 5 semaines |
+| Temps partiel 4 jours / semaine | 1 permanences / semaine    |
+| Temps partiel 3 jours / semaine | 1 permanences / 2 semaines |
+| Temps partiel 2 jours / semaine | 1 permanences / 2 semaines |
+| Temps partiel 1 jour  / semaine | 1 permanence  / 4 semaines |
 
 Dans le cas du mode de garde occasionnel, une permanence est due pour cinq jours d'accueil à aménager avec la Commission planning.
 

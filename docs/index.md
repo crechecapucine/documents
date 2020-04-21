@@ -44,7 +44,7 @@ l'Assemblée générale.
 
 * Version de travail du [règlement intérieur](RI_creche_modif) /[PDF](RI_creche_modif.pdf)
 
-Les modifications concernent:
+Les modifications concernent :
 
 * La date du document est celle de la réunion du Conseil d'administration
 * La date est également ajoutée à la liste des modifications
@@ -53,6 +53,7 @@ Les modifications concernent:
 * Article 3 : La question de la prise en charge d'un enfant par les
   parents de permanence si ses parents sont en retard est retirée.
 * Article 33 : Les températures passent de 38ºC
+* Article 54 : Charge des permanences
 
 ## Documents pouvant faire l'objet d'un travail ultérieur
 
