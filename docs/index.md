@@ -16,11 +16,16 @@ sont sous gestion de versions.
 
 ## Documents actuels
 
-Les règlements intérieurs votés en Conseil d'administration, le 16
-avril 2019, et ratifiés par l'Assemblée générale du 25 mai 2019.
+Le règlement intérieur de l'association voté en Conseil d'administration, le 16
+avril 2019, et ratifié par l'Assemblée générale du 25 mai 2019.
 
 * Le [règlement intérieur](RI_association) de l'association
  /[PDF](RI_association.pdf)
+ 
+Le règlement intérieur de la crèche a été voté en Conseil
+d'administration, le 21 avril 2020, ratifié au cours de l'AG du 29
+septembre 2020.
+ 
 * Le [règlement intérieur](RI_creche) de la crèche
  /[PDF](RI_creche.pdf)
 
@@ -35,25 +40,6 @@ d'administration, votés en Assemblée générale le 25 mai 2019.
 Les règlements intérieurs votés en Conseil d'administration, le 16
 avril 2019 et en attente de ratification par l'Assemblée générale du
 25 mai 2019.
-
-## Documents en cours de travail
-
-Un règlement intérieur de la crèche a été voté en Conseil
-d'administration, le 21 avril 2020. Il doit être ratifié au cour de
-l'Assemblée générale.
-
-* Version de travail du [règlement intérieur](RI_creche_modif) /[PDF](RI_creche_modif.pdf)
-
-Les modifications concernent :
-
-* La date du document est celle de la réunion du Conseil d'administration
-* La date est également ajoutée à la liste des modifications
-* Présentation : Les enfants de deux mois et demi (précédemment trois
-  mois) à quatre ans sont accueillis
-* Article 3 : La question de la prise en charge d'un enfant par les
-  parents de permanence si ses parents sont en retard est retirée.
-* Article 33 : Les températures passent de 38ºC
-* Article 54 : Charge des permanences
 
 ## Documents pouvant faire l'objet d'un travail ultérieur
 
